@@ -1,0 +1,801 @@
+created_at,text
+Mon Jul 16 22:56:30 +0000 2018,Excited to announce a new project: https://t.co/kF3W1XhDYG
+Mon Jul 16 22:56:30 +0000 2018,Excited to announce a new project: https://t.co/kF3W1XhDYG
+Tue Jul 17 00:31:08 +0000 2018,@felix2feng Definitely! We would love to support arbitrage opportunities for bundling / unbundling Sets
+Tue Aug 14 15:31:34 +0000 2018,@felix2feng @MakerDAO @compoundfinance @dydxprotocol @SetProtocol @DharmaProtocol @dydxprotocol does not require fu… https://t.co/E0Zqm3EYID
+Tue Aug 14 17:19:59 +0000 2018,@felix2feng @MakerDAO @compoundfinance @dydxprotocol @SetProtocol @DharmaProtocol @marbleprotocol We want to lend i… https://t.co/bRHIG0qbyV
+Tue Aug 14 21:11:27 +0000 2018,@licuende @Melt_Dem @bradmillscan Can you point to any info on these plans? Interested to learn more. Would I be ab… https://t.co/AeqErC9GLQ
+Thu Sep 06 23:53:39 +0000 2018,This is a good primer on token curated registries. The only use cases I can think of for TCRs that might be valuabl… https://t.co/6UZrbigVPT
+Tue Jan 08 00:57:17 +0000 2019,"I just published ""Compound's Self-Liquidation Bug"" about the issue discovered in @compoundfinance a few weeks ago. 👇
+https://t.co/ES3Y67Kb2i"
+Sun Feb 03 02:56:27 +0000 2019,@UniswapExchange @abandeali1 @PhABCD We’re experimenting with this for a lending price oracle. Medianizing checkpoi… https://t.co/ZDjW57XcxE
+Fri Feb 08 22:31:08 +0000 2019,@jbrukh It would only take 4% of MKR (~$17mm) to drain the entire PETH pool (~$218mm) right now. The current governance module is not ideal.
+Sat Feb 09 01:05:16 +0000 2019,"@WyseNynja @jbrukh Vote for a malicious hat (Maker lingo). This could, for example, set the ETH/USD price oracle gi… https://t.co/k9fnkZ8KvX"
+Sat Feb 09 01:27:32 +0000 2019,"@vamsiraju @WyseNynja @jbrukh It looks like lift only requires that you beat the current hat.
+https://t.co/yMDofh2V65"
+Sat Feb 09 02:18:53 +0000 2019,@vamsiraju @WyseNynja @jbrukh I just did it :)
+Wed Feb 13 21:08:25 +0000 2019,@haydenzadams @lkngtn @UniswapExchange Have you considered putting the liquidity fees on a bonding curve? That coul… https://t.co/5I2AEIK2HP
+Wed Feb 13 21:16:52 +0000 2019,@haydenzadams @lkngtn @UniswapExchange Fair points. The recruiting incentive doesn’t seem that bad IMO if the end r… https://t.co/XOeetDKI4j
+Tue Feb 19 21:21:43 +0000 2019,@RyanSAdams @DharmaProtocol @TCRPartyVIP is the closest thing I’ve seen to an identity system that makes sense on Ethereum
+Wed Feb 20 19:54:49 +0000 2019,@LiamKovatch Who would want to provide liquidity on DutchX? The only sellers I can think of are smart contracts tha… https://t.co/9Kb1IHQ75p
+Wed Feb 20 20:31:13 +0000 2019,"@LiamKovatch @UniswapExchange We're in the market for an on-chain price oracle, which is one of the stated goals of… https://t.co/iGF1GDAtKL"
+Wed Feb 20 20:48:46 +0000 2019,@LiamKovatch @UniswapExchange Seems like a reasonable choice. Could also be delegated to the DAO and be configurabl… https://t.co/LDVCOLv40T
+Sat Mar 23 23:57:45 +0000 2019,"@drakefjustin @cyounessi1 @harrycanuck @UniswapExchange Stability fees should go to Dai holders, who are the lender… https://t.co/hDa7S1adpv"
+Wed Mar 27 15:12:52 +0000 2019,"We just released Polaris, a trustless price oracle built on @UniswapExchange: https://t.co/AGVCDup96z"
+Wed Mar 27 15:12:52 +0000 2019,"There are lots of use cases for a fair on-chain price oracle: lending, derivatives, synthetic assets, portfolio man… https://t.co/2ssUpGFztr"
+Wed Mar 27 15:12:52 +0000 2019,"We looked into existing solutions. Most are centralized. Augur and DutchX are potentially good, but too slow. Sever… https://t.co/4gdOxBHRRW"
+Wed Mar 27 15:12:52 +0000 2019,"We chose Uniswap as a starting point because it always has an on-chain price, it’s an open protocol, and it’s quick… https://t.co/gtXl46AM2G"
+Wed Mar 27 15:12:52 +0000 2019,"Polaris attempts to solve the price manipulation problem. To do this, it creates a market between protocols who pay… https://t.co/hLf6kwnWv5"
+Wed Mar 27 15:12:52 +0000 2019,"The challenge is to balance competing priorities of an ideal oracle system: a live price, low work costs, and high… https://t.co/IQSpnjgPPH"
+Wed Mar 27 15:12:52 +0000 2019,We’re excited to gather feedback and test Polaris on the Ethereum mainnet before any live systems depend on it. If… https://t.co/X1zggpyg5g
+Wed Mar 27 15:33:04 +0000 2019,@WyseNynja @UniswapExchange We checkpoint the ETH reserve and token reserve of a given Uniswap exchange. Then we us… https://t.co/6m7rc87n1k
+Wed Mar 27 15:47:37 +0000 2019,"@WyseNynja @UniswapExchange Token reserve / ETH reserve for Uniswap. For Oasis, we took the average of a 1 ETH sell… https://t.co/5mfYEa3ihq"
+Wed Mar 27 20:19:54 +0000 2019,"@B_Chou @marbleprotocol @UniswapExchange As soon as the median is within 1 percent of the Uniswap spot price, the o… https://t.co/QrHhbRHv36"
+Wed Mar 27 20:44:52 +0000 2019,"@B_Chou @marbleprotocol @UniswapExchange Yes, but would make the system more expensive to maintain, which would mak… https://t.co/ANcyR2dEak"
+Wed Mar 27 21:16:20 +0000 2019,@B_Chou @marbleprotocol @UniswapExchange Yea in the worst case 1-block flash crash of 20% it would take at least 24… https://t.co/hxSKWrQLR4
+Thu Mar 28 11:09:09 +0000 2019,@Rewkang @jamesyoung @UniswapExchange To minimize dependencies. The Kyber and Bancor teams also have special permis… https://t.co/qDCVzCS5IA
+Thu Mar 28 11:26:50 +0000 2019,"@zack_bitcoin @marbleprotocol @CryptoMaestro @UniswapExchange You can read the price for free off-chain, but smart… https://t.co/5iQKuGG6yY"
+Thu Mar 28 12:44:41 +0000 2019,@zack_bitcoin @marbleprotocol @CryptoMaestro @UniswapExchange The difference is that in Augur it costs the same to… https://t.co/eKMDJmAO3y
+Tue Apr 09 23:51:44 +0000 2019,RT @marbleprotocol: Check out how Polaris has tracked the market since its launch here: https://t.co/OrnIwh9S1H https://t.co/ShWOs8hRLy
+Fri Apr 12 18:41:50 +0000 2019,@inkymaze @TheBlock__ @teo_leibowitz @maxcwolff Definitely. I think the best solution would be to just use… https://t.co/JSwHX1Xa3H
+Thu May 09 21:09:10 +0000 2019,I'm applying to the @HumanityDAO registry! My Ethereum address is 0x2566190503393b80bded55228c61a175f40e4d42
+Thu May 09 21:14:21 +0000 2019,"Excited to announce an experiment in unique identity and on-chain governance called @HumanityDAO!
+https://t.co/9CYUUVscFN"
+Thu May 09 22:58:25 +0000 2019,@paulcowgill Thanks for applying! All credit goes to @mykelp for the frontend!
+Thu May 09 23:05:46 +0000 2019,RT @iamtexture: These side-project experiments are the real things happening https://t.co/nOkF2Hk7yj
+Fri May 10 05:11:07 +0000 2019,"@JacobShiach You’ll be in the registry and get a single reward in either scenario. We’re working on that bug, thanks for flagging it!"
+Fri May 10 05:16:23 +0000 2019,"@JacobShiach You’ll lose the proposal fee if one gets rejected (1 HUM). Not a big deal though, you’ll get 30K HUM for getting in."
+Fri May 10 05:28:55 +0000 2019,@cleanunicorn @JacobShiach Yea the TwitterHumanityApplicant is very much a second layer contract on top of Humanity… https://t.co/mq5zrosCnX
+Fri May 10 12:05:43 +0000 2019,@8bitbytebit @maxcwolff Agreed. You can use your base identity from the registry to set up delegate accounts (somet… https://t.co/JQK7iGg9Pa
+Fri May 10 13:18:44 +0000 2019,@madcapslaugh @brendan_dharma Definitely not the goal. Ideally you'll be able to participate in Sybil-resistant pro… https://t.co/eIg2hStOoF
+Fri May 10 13:21:30 +0000 2019,@madcapslaugh @brendan_dharma The DAO should try to demand the minimum information possible to assess whether an ap… https://t.co/qrYNx7Iqhv
+Fri May 10 19:20:56 +0000 2019,"@th0jest @marbleprotocol @antiprosynth @HumanityDAO No, I think those projects are great though. @uport_me @3boxdb.… https://t.co/OuRQ4n2o0r"
+Fri May 10 21:07:18 +0000 2019,@nanexcool @HumanityDAO Finally fixed. Thanks Mariano!
+Fri May 10 22:12:43 +0000 2019,@nanexcool @HumanityDAO I hope so! Another use case for Dai! https://t.co/eSXYlfn390
+Sat May 11 21:51:46 +0000 2019,@lrettig Check out @HumanityDAO. It's a DAO for all unique humans.
+Sun May 12 00:20:08 +0000 2019,@lrettig @__padpad @HumanityDAO Hoping someone builds a simple 30-line usernames smart contract for registry member… https://t.co/qvcpdMvz3W
+Sun May 12 01:54:46 +0000 2019,@nicksdjohnson @lrettig @__padpad @HumanityDAO What are your thoughts on sending some of the ENS $5 rent revenues t… https://t.co/WP8exyvCju
+Sun May 12 01:57:32 +0000 2019,@nicksdjohnson @lrettig @__padpad @HumanityDAO As basic income essentially.
+Sun May 12 05:43:40 +0000 2019,"@Dexter_Valkyrie @sassal0x @HumanityDAO @ensdomains We just launched this on Thursday :) Give us some time, we'll add ENS support soon!"
+Sun May 12 14:04:34 +0000 2019,"@cicnos1 @mykelp We’ll see how people vote! If you don’t get in right away, we apologize and can help you apply aga… https://t.co/ljEkZI1MjG"
+Sun May 12 16:10:32 +0000 2019,"@bmann @HumanityDAO @Trustwallet Good to hear! Definitely not optimized for mobile yet, bear with us applicants!"
+Sun May 12 16:24:10 +0000 2019,@Sid_Coelho @HumanityDAO Agreed. Open to suggestions here!
+Sun May 12 16:59:20 +0000 2019,@mr_ligi @HumanityDAO We did build a proof of concept at ETHSF that didn't get much attention: https://t.co/M5EHUwhzAW
+Sun May 12 19:57:34 +0000 2019,@F76F761 @econoar @HumanityDAO Anyone can build another website to interact with the Humanity smart contracts. All… https://t.co/p7rd88hFRK
+Sun May 12 20:10:05 +0000 2019,@F76F761 @econoar @HumanityDAO We launched this 3 days ago as a side project expecting to get like 10 applicants. T… https://t.co/LwIjYxUsjq
+Sun May 12 21:10:27 +0000 2019,@r_ross_campbell Sorry
+Sun May 12 23:17:29 +0000 2019,@_jdkanani @Sid_Coelho @HumanityDAO Yep
+Mon May 13 11:39:15 +0000 2019,@PChonpimai @marbleprotocol Yea will fix in a few hours when we all wake up. Thank you!
+Mon May 13 13:28:06 +0000 2019,@tenfinney @vor0220 @HumanityDAO 50K votes are from Marble people (like me). First humans will earn 30K today and b… https://t.co/4WOC5VIjZL
+Mon May 13 13:28:52 +0000 2019,@tenfinney @vor0220 @HumanityDAO And make it possible to vote. We’ll try to improve the site over the next couple of days
+Mon May 13 13:57:58 +0000 2019,@UBIpromoter @thegrifft @HumanityDAO @BrightIDProject Bright ID is one of the only other teams I saw working on the… https://t.co/7fYNQvcFJ0
+Mon May 13 14:44:18 +0000 2019,@Iiterature @tenfinney @vor0220 @HumanityDAO Need a Tinder for unique humans only
+Mon May 13 14:54:16 +0000 2019,@Iiterature @tenfinney @vor0220 @HumanityDAO Yea we’d love to see that and votes too from confirmed humans
+Mon May 13 21:06:15 +0000 2019,"@cjremus @nicksdjohnson @HumanityDAO @ensdomains Definitely, we've seen this request multiple times already and I p… https://t.co/kGw1qKZPex"
+Mon May 13 22:32:10 +0000 2019,"@jessewldn @HumanityDAO Sorry about that Jesse, I staked for you. Thanks for the bug report. You're #410. Good luck!"
+Mon May 13 23:08:15 +0000 2019,@pfletcherhill @HumanityDAO Grab the $1 UBI!
+Mon May 13 23:09:46 +0000 2019,@chdwlch @HumanityDAO Sorry about that! I'll re-stake for you. Iterated game.
+Mon May 13 23:10:10 +0000 2019,@chdwlch @HumanityDAO The trust has to bubble out a bit first it seems
+Mon May 13 23:21:07 +0000 2019,"@chdwlch @HumanityDAO #414, good luck! Voters, Chad seems like a good guy!"
+Mon May 13 23:22:34 +0000 2019,@Iiterature @chdwlch @HumanityDAO Any suggestions for small social graph applicants? Photo with ETH address?
+Mon May 13 23:53:25 +0000 2019,@levetrage @cyber_hokie @HumanityDAO Informal community standards. Seems like people are letting people with establ… https://t.co/FGgD19lbtK
+Tue May 14 05:17:38 +0000 2019,@mohsen_ghajar @HumanityDAO First applicant to pass a Turing test from me. Check the Discord #general channel for t… https://t.co/ZZfKcrlsFg
+Tue May 14 05:21:54 +0000 2019,"@jasonsomensatto @HumanityDAO There we go! Adding ENS support soon, thanks for adding it!"
+Tue May 14 05:24:05 +0000 2019,@_jdkanani @JRossTreacher @mikedemarais @HumanityDAO Trying to solve unique identity right now. Could use help with privacy!
+Tue May 14 15:45:37 +0000 2019,"If you are as amazed as I am that the @HumanityDAO site is actually holding up pretty well, please give a shoutout… https://t.co/o1pa6UhZMc"
+Tue May 14 15:46:26 +0000 2019,"Also keep the feedback coming! Either here, DM or Discord. We're looking at everything and will pick off low-hangin… https://t.co/s18NJI79A5"
+Tue May 14 16:56:57 +0000 2019,".@ETHNewYork hackers, start thinking about @HumanityDAO. Lots to build!"
+Tue May 14 17:46:53 +0000 2019,RT @brendan_dharma: Would love to see: on-chain micro credit https://t.co/phctwZnUCL
+Tue May 14 18:53:18 +0000 2019,@GalaxyNJDevils @HumanityDAO Can confirm Dan is a unique human and all around great guy!
+Tue May 14 19:11:29 +0000 2019,"@travisformayor Yep, also kind of a hypocrite here. @trailofbits to the rescue hopefully. https://t.co/ToTIXSeUUU"
+Wed May 15 01:00:10 +0000 2019,@jbrukh Happy to answer for @HumanityDAO!
+Wed May 15 01:06:57 +0000 2019,@jbrukh @HumanityDAO You have to make it through a 4 day voting process to get accepted to the registry of unique h… https://t.co/SDWOEjVzpL
+Wed May 15 01:07:32 +0000 2019,"@jbrukh @HumanityDAO It looks like you applied twice, which has happened to quite a few people. Sorry about that."
+Wed May 15 04:27:34 +0000 2019,@insideNiMA @jbrukh @HumanityDAO Maybe in the future. Let's focus on Twitter for now.
+Wed May 15 09:23:52 +0000 2019,@cypher_m00n @HumanityDAO Everything will be better if we can come together to fully solve this problem before onbo… https://t.co/0y08FeJo6s
+Wed May 15 09:29:34 +0000 2019,@cypher_m00n @HumanityDAO It makes more sense to me to inspire builders with a shared goal than to distribute to a… https://t.co/wEHl9yuxlP
+Wed May 15 09:30:43 +0000 2019,@cypher_m00n @HumanityDAO I’m sorry that you feel cheated but I hope that you will revisit the project when it impr… https://t.co/MUd0ZTiRqg
+Wed May 15 09:32:01 +0000 2019,@cypher_m00n @HumanityDAO You can also feel free to fork Humanity to verify humans first. Maybe that is the more va… https://t.co/B7Ze99tBR3
+Wed May 15 09:55:06 +0000 2019,@cypher_m00n @HumanityDAO We will reimburse participants who were Vetoed and grant HUM to those participants as wel… https://t.co/KPxDEY6hM7
+Wed May 15 10:21:32 +0000 2019,"@0x_____________ @bitfalls @HumanityDAO Check Discord, will also publish blog post tomorrow. Sorry guys."
+Wed May 15 10:39:33 +0000 2019,@bitfalls @0x_____________ @HumanityDAO @VitalikButerin We never prioritized getting Vitalik in. We should have sta… https://t.co/Xk5hEnjxhG
+Wed May 15 11:09:06 +0000 2019,"@th0jest @HumanityDAO @VitalikButerin Yep, will clear things up in a blog post tomorrow. Self-sovereign identity is… https://t.co/CIfKjEDu7j"
+Wed May 15 15:05:36 +0000 2019,@intocryptoast @cypher_m00n @HumanityDAO Are you sure we are to blame? Check the chain!
+Wed May 15 15:24:30 +0000 2019,@vitmantug @intocryptoast @cypher_m00n @HumanityDAO Hopefully this will appease the community:… https://t.co/rmTQ22zeWj
+Wed May 15 15:27:35 +0000 2019,@backus @HumanityDAO We don't have that much voting power at this point anyway. You are a good actor John. We want… https://t.co/kqQ56bzIMw
+Wed May 15 15:28:55 +0000 2019,@intocryptoast @vitmantug @cypher_m00n @HumanityDAO I understand and sorry for disappointing people. Trying to act… https://t.co/oxkeA2BNlh
+Thu May 16 11:28:30 +0000 2019,"@patfives @HumanityDAO I'll address this in a public post later today. For now, consider how the token distribution… https://t.co/8iNXIGXRvY"
+Thu May 16 11:37:08 +0000 2019,@exiledsurfer @patfives @HumanityDAO Everything will be explained in a bit. Sit tight.
+Thu May 16 11:43:14 +0000 2019,"@exiledsurfer @patfives @HumanityDAO Lol it's been 1 week. Wait for the explanation, you'll like it. Chill."
+Fri May 17 01:31:41 +0000 2019,"If you see anyone attack me or other humans of the @HumanityDAO community, pay no mind. Always check the chain. Tha… https://t.co/xkqKOF20AW"
+Fri May 17 02:42:49 +0000 2019,Anyone who was troll voted out of the first iteration of @HumanityDAO and is connected to the Twitter graph of conf… https://t.co/ibvIZWGFC0
+Fri May 17 02:44:54 +0000 2019,Will also try to figure this out manually when I get a chance.
+Fri May 17 02:48:55 +0000 2019,@nanexcool @HumanityDAO We're coming! Looking forward to working with everyone.
+Fri May 17 06:50:17 +0000 2019,.@naval we coded Sovereign Individual in a few hundred lines of Solidity. Check it out! @HumanityDAO
+Fri May 17 11:26:19 +0000 2019,Grateful to have world-class contributors thinking about self-sovereign identity @HumanityDAO. You’ll be more helpf… https://t.co/96nHCAf9Ys
+Fri May 17 13:52:25 +0000 2019,.@HumanityDAO is a massive cooperative network. Join!
+Fri May 17 21:55:45 +0000 2019,@pedrouid @paulith @spencecoin @HumanityDAO We voted no because we weren’t 100% and immediately realized web-of-tru… https://t.co/n4O9B1r1rD
+Fri May 17 21:57:39 +0000 2019,@spencecoin @pedrouid @paulith @HumanityDAO People we didn’t share a Twitter graph with. Even if we were 99% sure t… https://t.co/4RG3wfGdAx
+Fri May 17 21:59:16 +0000 2019,@spencecoin @pedrouid @paulith @HumanityDAO Unfortunate that early adopters don’t get 30K. I said in ethtrader happ… https://t.co/t29VEqCTZG
+Fri May 17 22:00:01 +0000 2019,"@spencecoin @pedrouid @paulith @HumanityDAO Yes Twitter graph excludes some early adopters, but it’s working! Tried… https://t.co/z7u38eIz8w"
+Fri May 17 22:02:25 +0000 2019,@pedrouid @paulith @spencecoin @HumanityDAO Yea I mean every system has to be bootstrapped. I’m surprised you guys… https://t.co/XKDJfQqQXF
+Fri May 17 22:05:39 +0000 2019,@pedrouid @paulith @spencecoin @HumanityDAO We just got off 5 hour plane ride. No problem because decisions are bei… https://t.co/MXq0wHwAOj
+Fri May 17 22:08:01 +0000 2019,@pedrouid @paulith @spencecoin @HumanityDAO You’re saying it’s unfair that we voted no on someone we may have been… https://t.co/QXlZy23rgM
+Fri May 17 22:08:47 +0000 2019,@pedrouid @paulith @spencecoin @HumanityDAO We truly don’t care about celebrity. I saw this taking off and invited… https://t.co/K9XeQnoxCq
+Fri May 17 22:09:28 +0000 2019,@pedrouid @paulith @spencecoin @HumanityDAO 8 follower person almost definitely is too but 99%. My high school friends are 100% human.
+Fri May 17 22:14:28 +0000 2019,@pedrouid @paulith @spencecoin @HumanityDAO Hoping long-term this concept solves trolling and maybe even shared tru… https://t.co/SkyeDPteG3
+Fri May 17 22:20:50 +0000 2019,@AnettRolikova @pedrouid @paulith @spencecoin @HumanityDAO Troll. We’ll have tool up soon that shows who booted you… https://t.co/41Pp04SVqQ
+Fri May 17 22:24:07 +0000 2019,@marc0olo @pedrouid @paulith @spencecoin @HumanityDAO Working on a tool for this should be ready 1-2 days 👍
+Fri May 17 22:25:47 +0000 2019,@marc0olo @pedrouid @paulith @spencecoin @HumanityDAO Yea I can do that for you if you’re in the web
+Fri May 17 22:30:38 +0000 2019,"@amingilani @HumanityDAO You’re in the web. Should be good to go. Voters, Amin is in the web of trust!"
+Sat May 18 04:35:53 +0000 2019,Money is trust.
+Sat May 18 09:59:51 +0000 2019,@levetrage @cyber_hokie @HumanityDAO Might become formal standards when we have enough humans. We can vote on chain in a democracy.
+Sat May 18 14:47:40 +0000 2019,@bneiluj @HumanityDAO @Onfido @polkadotnetwork Yea we need all sorts of systems to onboard people who aren’t in the… https://t.co/r7MwhKqlCN
+Sat May 18 14:49:57 +0000 2019,@bneiluj @HumanityDAO @Onfido @polkadotnetwork Good people who don’t have Twitter can join Twitter and join the gra… https://t.co/2u2YgKDz8t
+Sat May 18 14:51:54 +0000 2019,"@bneiluj @HumanityDAO @Onfido @polkadotnetwork @StakeCapital Cool, thanks!"
+Sat May 18 14:53:44 +0000 2019,@bneiluj @HumanityDAO @Onfido @polkadotnetwork Idk Discord verification or something? If an important person wants… https://t.co/mhrmKIRkGB
+Sat May 18 15:09:53 +0000 2019,"I’m not perfect, let me be clear. I’m signaling cooperate and playing cooperate. I’m flawed in real life. Important… https://t.co/cvpAioe6VO"
+Sat May 18 15:41:11 +0000 2019,"If you’re on the registry we’re preparing a blog post about how you can cooperate. I know you’re confused, sit tight."
+Sat May 18 15:42:46 +0000 2019,For now please don’t sell the voting tokens
+Sat May 18 16:10:17 +0000 2019,.@saifedean would you agree human consensus is clearly better than Bitcoin?
+Sat May 18 16:31:31 +0000 2019,The thing Satoshi tried to teach you was intellectual honesty. Many in the Bitcoin and Ethereum crowd didn’t get that. That was the insight.
+Sat May 18 19:01:46 +0000 2019,"Ethereum people, if @HumanityDAO works (unproven) just rip it and you have PoS."
+Sat May 18 19:01:46 +0000 2019,Block validators are added through bootstrapped web of trust. The system is better decentralized. Add lots of nodes.
+Sat May 18 19:01:46 +0000 2019,Block proposers pay a fee in the native token (ETH) and validators vote in the same setup we have but obviously much faster.
+Sat May 18 19:01:47 +0000 2019,Validators are incentivized to cooperate and choose good blocks because it’s iterated prisoner’s dilemma. The valid… https://t.co/pzzr6tgHxz
+Sat May 18 19:01:47 +0000 2019,Curious to hear thoughts.
+Sat May 18 19:14:20 +0000 2019,@VitalikButerin @VladZamfir
+Sat May 18 19:23:19 +0000 2019,@kacperwikiel @HumanityDAO It’s Sybil resistant because Sybils (attackers) must pay to play. DAO rejects them every… https://t.co/QCRIVm3tMd
+Sat May 18 19:24:00 +0000 2019,"@kacperwikiel @HumanityDAO The proposal fee of the fake is lost. Easy decision to reject. Check humans, no fakes."
+Sat May 18 19:25:14 +0000 2019,@kacperwikiel @HumanityDAO Requires 50% of supply to be locked up in governance. Trolls can’t defeat.
+Sat May 18 19:26:29 +0000 2019,@kacperwikiel @HumanityDAO Current setup isn’t perfect because we didn’t realize this.
+Sat May 18 19:28:38 +0000 2019,@kacperwikiel @HumanityDAO To be clear the DAO in Humanity is humans. If everyone cooperates it’s strong agains Syb… https://t.co/PxVa3Sd9EL
+Sat May 18 19:33:13 +0000 2019,@kacperwikiel @HumanityDAO You can delegate your stake to someone to vote. I don’t have time right now so haven’t b… https://t.co/CLazlZEUM8
+Sat May 18 19:33:50 +0000 2019,@kacperwikiel @HumanityDAO But yea the system has free rider problems. Someone needs to be online to vote. Has been… https://t.co/TtoihKZQpN
+Sat May 18 19:35:56 +0000 2019,@kacperwikiel @HumanityDAO As a HUM holder I’m definitely down to pay voters to do their job. Hopefully would be co… https://t.co/XerO8yMFXf
+Sat May 18 19:36:51 +0000 2019,@kacperwikiel @HumanityDAO If the person I delegate to plays incorrectly I’ll move my service to someone else.
+Sat May 18 20:33:36 +0000 2019,Also just looks objectively similar. Applicants is mempool humans is blocks. Maybe can tweak if we messed up.
+Sun May 19 01:14:52 +0000 2019,PoS: publicly identify yourself and a bunch of your legit competitors. Cooperate for rewards.
+Sun May 19 01:55:38 +0000 2019,"Blockchains have unknown rounds, equilibrium is cooperate"
+Sun May 19 05:20:26 +0000 2019,"Signal cooperate, play cooperate @HumanityDAO. It feels good, will get us to 10K quickly, then I’ll let you guys fi… https://t.co/D48oQYVNUZ"
+Sun May 19 05:20:27 +0000 2019,Let in people who differ from you philosophically as long as they act in good faith. The system will evolve better… https://t.co/2hQhhFucLg
+Sun May 19 06:16:54 +0000 2019,.@VitalikButerin @VladZamfir the humans deserve answers! I know you guys realized this two days before me.
+Sun May 19 06:20:45 +0000 2019,.@VitalikButerin especially for siding with moonboy trolls in ethtrader. Incentives!
+Sun May 19 06:24:58 +0000 2019,If no explanation within 24H would suggest booting @VitalikButerin from humans and proof-of-burn on HUM from V.
+Sun May 19 06:40:26 +0000 2019,Only let intellectually honest people into the first 10K! Any philosophy. Builders and thinkers!
+Sun May 19 06:57:18 +0000 2019,.@VitalikButerin you seriously thought enterprise blockchain and IoT was how this tech was going to pan out. C’mon.
+Sun May 19 07:05:43 +0000 2019,@futjrn @HumanityDAO @nicksdjohnson Sweet!
+Sun May 19 07:06:17 +0000 2019,@futjrn @HumanityDAO @nicksdjohnson Oh idk how to do this actually. Backend has it @mykelp
+Sun May 19 07:17:07 +0000 2019,@StopAndDecrypt @jgarzik @VladZamfir See my page for what he means. Bitcoin maxis would love to have you on board i… https://t.co/gtLdZ8DnIK
+Sun May 19 07:30:05 +0000 2019,Bitcoin going to zero. PoS solved in a smart contract. Who will hold the bags?
+Sun May 19 07:51:47 +0000 2019,".@ameensol I know you have been frustrated with EF, curious to get your thoughts on the situation unfolding."
+Sun May 19 07:52:32 +0000 2019,Also I went to your code walkthrough on Moloch in SF and got a couple insights for @HumanityDAO. Helpful!
+Sun May 19 07:59:42 +0000 2019,Honest protocols will win. @Bitcoin @ethereum @AugurProject @UniswapExchange. Figure it out before you release!
+Sun May 19 08:41:23 +0000 2019,@futjrn @HumanityDAO @rstormsf @AnthemGold Super cool! I knew there would be a lot of low hanging fruit for first u… https://t.co/geHM6xca1d
+Sun May 19 09:07:48 +0000 2019,.@VitalikButerin @VladZamfir if you guys publicly apologize you can join. I think you guys are smart and Ethereum i… https://t.co/KwkCiSmKhi
+Sun May 19 09:09:22 +0000 2019,Don’t be a malicious node! You didn’t know the rules before so giving you a second chance. Now you know.
+Sun May 19 09:31:04 +0000 2019,The world will be a better place without bots and trolls. Everyone build on @HumanityDAO before the election! @jack… https://t.co/FdMjLmLNNW
+Sun May 19 09:34:29 +0000 2019,"Totally get why you liked BTC. ETH is cool too. PoS solved, no more waste."
+Sun May 19 09:39:15 +0000 2019,Also Twitter is part of the core protocol right now. Thanks for allowing freedom of speech!
+Sun May 19 09:41:30 +0000 2019,@ameensol .@HumanityDAO solves PoS. Can explain it to a 5 year old but basically you just have humans decide the bl… https://t.co/Yrb0clhfcL
+Sun May 19 09:42:00 +0000 2019,@ameensol @HumanityDAO Appears they beat me to the punch by a couple days and knew what was coming
+Sun May 19 09:42:46 +0000 2019,@ameensol @HumanityDAO Humans are nodes now so you have to be honest. Hoping they will apologize! Would also love t… https://t.co/MWnQ3yopq1
+Sun May 19 09:44:57 +0000 2019,@ameensol @HumanityDAO @MolochDAO Can also compensate if HUM takes over since you solved some of it. Uni and TCR was the rest.
+Sun May 19 09:46:48 +0000 2019,@ameensol @HumanityDAO It’s already solved. See iterated prisoner’s dilemma with unknown rounds
+Sun May 19 09:47:52 +0000 2019,@ameensol @HumanityDAO The insight is to get a bunch of competitors (prisoners) to agree to perfect competition. Bl… https://t.co/BcgoyDQYGz
+Sun May 19 09:48:38 +0000 2019,@ameensol @HumanityDAO Yea I can do that. Check the followers on @HumanityDAO though. Lots of cypherpunks. Gives so… https://t.co/crKuLI6jGG
+Sun May 19 09:51:34 +0000 2019,@ameensol @HumanityDAO Yea I mean it’s literally manual now it’s ridiculous. You have me and community members clic… https://t.co/B1Kwiw1KBZ
+Sun May 19 10:39:00 +0000 2019,@PhABCD @ameensol @HumanityDAO @MolochDAO They knew @HumanityDAO solves PoS and didn’t tell anyone for fear of host… https://t.co/8xcvMzAlue
+Sun May 19 10:40:36 +0000 2019,@PhABCD @ameensol @HumanityDAO @MolochDAO @VladZamfir Would like all misallocated funds at EF and Aragon to be dist… https://t.co/Av0jvj6119
+Sun May 19 10:41:32 +0000 2019,@PhABCD @ameensol @HumanityDAO @MolochDAO @VladZamfir Sorry if you’re in one of those teams and you have made progr… https://t.co/uBaxmIa9jS
+Sun May 19 10:41:44 +0000 2019,@PhABCD @ameensol @HumanityDAO @MolochDAO @VladZamfir ETH 2.0 plans are irrelevant!
+Sun May 19 10:44:33 +0000 2019,@PhABCD @VitalikButerin @VladZamfir Sure so Bitcoin solves Byzantine fault tolerance through proof of work. They si… https://t.co/rWWpkkDp3g
+Sun May 19 10:45:19 +0000 2019,@PhABCD @VitalikButerin @VladZamfir .@HumanityDAO cleverly solves through iterated prisoner’s dilemma game with unk… https://t.co/YzfmVZSahn
+Sun May 19 10:46:35 +0000 2019,@PhABCD @VitalikButerin @VladZamfir And it solves Sybil resistance through this insane Twitter game we’re all playi… https://t.co/U41UMCSIkE
+Sun May 19 10:47:41 +0000 2019,@PhABCD @VitalikButerin @VladZamfir @HumanityDAO https://t.co/xJRTc0g2S6
+Sun May 19 10:48:36 +0000 2019,@PhABCD @VitalikButerin @VladZamfir @HumanityDAO See unexpected result that prisoner’s cooperate with unknown round… https://t.co/ERNqgie6Zp
+Sun May 19 10:50:52 +0000 2019,@PhABCD @VitalikButerin @VladZamfir @HumanityDAO So for clarity in @HumanityDAO humans own all the tokens right now… https://t.co/QpRpNhwjjd
+Sun May 19 10:51:28 +0000 2019,"@PhABCD @VitalikButerin @VladZamfir @HumanityDAO Which means if it’s a Sybil reject, someone who wants self soverei… https://t.co/D4UL0dG7ew"
+Sun May 19 10:51:59 +0000 2019,@PhABCD @VitalikButerin @VladZamfir @HumanityDAO There’s 1000 followers like 800 are cypherpunks. They get it
+Sun May 19 10:56:07 +0000 2019,@PhABCD @VitalikButerin @VladZamfir @HumanityDAO Because we coded it wrong it’s actually easier to defect by sellin… https://t.co/rBjbFoVOfr
+Sun May 19 10:56:07 +0000 2019,@PhABCD @VitalikButerin @VladZamfir @HumanityDAO Because we coded it wrong it’s actually easier to defect by sellin… https://t.co/rBjbFoVOfr
+Sun May 19 10:58:43 +0000 2019,@kacperwikiel @PhABCD @VitalikButerin @VladZamfir @HumanityDAO Good idea! New rule ☝️. Better game.
+Sun May 19 11:05:22 +0000 2019,@kacperwikiel @PhABCD @VitalikButerin @VladZamfir @HumanityDAO Also would be stronger if only humans vote so you ca… https://t.co/TPtYucoXkH
+Sun May 19 11:08:54 +0000 2019,@kacperwikiel @PhABCD @VitalikButerin @VladZamfir @HumanityDAO Let’s just make it to 10K. I want the troll trap (Un… https://t.co/tcwZjBgHOv
+Sun May 19 11:17:50 +0000 2019,@PhABCD @ameensol @HumanityDAO @MolochDAO @VladZamfir @VladZamfir tweeted asking if anyone knew about if a hostile… https://t.co/OAU9dyApI5
+Sun May 19 11:18:47 +0000 2019,@PhABCD @ameensol @HumanityDAO @MolochDAO @VladZamfir It solves PoS because everyone is a computer scientist thinki… https://t.co/cPDtls9sNL
+Sun May 19 11:19:26 +0000 2019,@PhABCD @ameensol @HumanityDAO @MolochDAO @VladZamfir I’m not so I realized you can just make it so that every node… https://t.co/uiz2aEOfAC
+Sun May 19 11:20:02 +0000 2019,@PhABCD @ameensol @HumanityDAO @MolochDAO @VladZamfir Invite your enemies to a perfectly competitive environment an… https://t.co/RAgLSGKOZ3
+Sun May 19 11:22:11 +0000 2019,@PhABCD @ameensol @HumanityDAO @MolochDAO @VladZamfir You need to put yourself in the jail cell. All the confirmed… https://t.co/GY0F3TVhkq
+Sun May 19 11:23:02 +0000 2019,@PhABCD @ameensol @HumanityDAO @MolochDAO @VladZamfir Defect here you get immediate payoff by making a few dollars… https://t.co/ZcRkKAaPEy
+Sun May 19 11:58:17 +0000 2019,@JacobShiach @PhABCD @VitalikButerin @VladZamfir .@VladZamfir tweeting about how to protect hostile takeover
+Sun May 19 11:58:30 +0000 2019,@JacobShiach @PhABCD @VitalikButerin @VladZamfir See my pinned tweet for suggested action
+Sun May 19 12:12:00 +0000 2019,@JacobShiach @PhABCD @VitalikButerin @VladZamfir .@HumanityDAO is PoS and DAO. These teams have made zero progress on either in years.
+Sun May 19 12:12:34 +0000 2019,@JacobShiach @PhABCD @VitalikButerin @VladZamfir @HumanityDAO Ethereum Foundation and Aragon. ETH 2.0 plans should… https://t.co/z47SptOUhy
+Sun May 19 12:18:28 +0000 2019,Okay for everyone confused about my ramblings:
+Sun May 19 12:18:39 +0000 2019,I believe @HumanityDAO solves proof of stake. This is a problem that has been worked on for years with no progress… https://t.co/9AdhhfZ8Qa
+Sun May 19 12:18:40 +0000 2019,"Considering we solved it in 6 weeks, I believe funds have been misallocated."
+Sun May 19 12:18:40 +0000 2019,I would like @VitalikButerin and @VladZamfir to publicly address whether they think this is a valid proof of stake algorithm
+Sun May 19 12:18:41 +0000 2019,I’d like @VitalikButerin to apologize for throwing me under the bus in ethtrader
+Sun May 19 12:18:41 +0000 2019,I’d like @VladZamfir to explain his tweet about hostile takeover
+Sun May 19 12:53:32 +0000 2019,I hope those asks are reasonable
+Sun May 19 12:57:42 +0000 2019,@jadler0 @_prestwich In a few hundred lines of Solidity I should’ve added. It’s an elegant solution.
+Sun May 19 12:58:55 +0000 2019,@_prestwich And yet @HumanityDAO has 217 humans and growing. See iterated prisoner’s dilemma with unknown rounds for the answer
+Sun May 19 13:10:09 +0000 2019,@_prestwich @badcryptobitch James let me see if I can explain it to you. Everyone doxes themselves by publicly announcing their ETH address
+Sun May 19 13:10:22 +0000 2019,@_prestwich @badcryptobitch They agree to become the prisoners
+Sun May 19 13:10:47 +0000 2019,@_prestwich @badcryptobitch In an unknown round game (blockchain) the equilibrium is cooperation
+Sun May 19 13:11:03 +0000 2019,@_prestwich @badcryptobitch Look at @HumanityDAO all the humans are cooperating!
+Sun May 19 13:12:02 +0000 2019,@_prestwich @badcryptobitch Sybil resistance is solved through web of trust on Twitter. Actually not that hard when you think about it
+Sun May 19 13:12:16 +0000 2019,@_prestwich @badcryptobitch So PoW is not needed
+Sun May 19 13:14:01 +0000 2019,@_prestwich @badcryptobitch Make sense?
+Sun May 19 13:24:17 +0000 2019,@PhABCD @JacobShiach @VitalikButerin @VladZamfir @HumanityDAO It is
+Sun May 19 13:35:31 +0000 2019,@MihailoBjelic @PhABCD @ameensol @HumanityDAO @MolochDAO @VladZamfir Yea I’m not actually mad but would like to get… https://t.co/BE0YEXPmrO
+Sun May 19 13:35:58 +0000 2019,@MihailoBjelic @PhABCD @ameensol @HumanityDAO @MolochDAO @VladZamfir Trying to make a point about Internet outrage… https://t.co/SvijHXO5Ln
+Sun May 19 13:36:33 +0000 2019,@MihailoBjelic @PhABCD @ameensol @HumanityDAO @MolochDAO @VladZamfir PoS would potentially help fix so want to get… https://t.co/U0vgbJvlh5
+Sun May 19 13:40:07 +0000 2019,@MihailoBjelic @PhABCD @ameensol @HumanityDAO @MolochDAO @VladZamfir Trying to explain it in a fun way to make a po… https://t.co/pf6DjCwb8y
+Sun May 19 13:41:55 +0000 2019,@MihailoBjelic @PhABCD @ameensol @HumanityDAO @MolochDAO @VladZamfir cc: @isTruStory
+Sun May 19 13:45:07 +0000 2019,@MihailoBjelic @PhABCD @ameensol @HumanityDAO @MolochDAO @VladZamfir @isTruStory I would hope that if this is valid… https://t.co/r3dB4pmHl3
+Sun May 19 13:47:59 +0000 2019,@MihailoBjelic @PhABCD @ameensol @HumanityDAO @MolochDAO @VladZamfir @isTruStory Also want to know how it can be im… https://t.co/934VAgOaD9
+Sun May 19 13:48:57 +0000 2019,@MihailoBjelic @PhABCD @ameensol @HumanityDAO @MolochDAO @VladZamfir @isTruStory I am a little peeved about being t… https://t.co/R0mVwKHhXx
+Sun May 19 13:49:21 +0000 2019,@MihailoBjelic @PhABCD @ameensol @HumanityDAO @MolochDAO @VladZamfir @isTruStory Want to get smart people thinking… https://t.co/Io45bRM09K
+Sun May 19 13:51:11 +0000 2019,@MihailoBjelic @PhABCD @ameensol @HumanityDAO @MolochDAO @VladZamfir @isTruStory Sorry if this made people mad but… https://t.co/YhF6R80VcQ
+Sun May 19 13:57:35 +0000 2019,@mr_ligi @ameensol @HumanityDAO Thought I cleared this up but would be happy to explain either
+Sun May 19 13:57:49 +0000 2019,@mr_ligi @ameensol @HumanityDAO Consensus algo or controversy in beginning
+Sun May 19 13:57:55 +0000 2019,@mr_ligi @ameensol @HumanityDAO Which first?
+Sun May 19 13:59:24 +0000 2019,"@mr_ligi @ameensol @HumanityDAO I’ll just do both. So with the people that got booted, yes that was our team. We di… https://t.co/rCOt6Spv91"
+Sun May 19 13:59:46 +0000 2019,@mr_ligi @ameensol @HumanityDAO We tried different things. First we tried Turing test.
+Sun May 19 14:00:15 +0000 2019,@mr_ligi @ameensol @HumanityDAO But is that really Sybil-proof? We couldn’t tell so ultimately had to boot people we didn’t know
+Sun May 19 14:00:45 +0000 2019,@mr_ligi @ameensol @HumanityDAO Then it dawned on us. The Twitter social graph is actually an awesome proxy for Sybil-resistant identity
+Sun May 19 14:01:14 +0000 2019,@mr_ligi @ameensol @HumanityDAO So we let in crypto Twitter and people this people know. It’s a web of trust
+Sun May 19 14:01:41 +0000 2019,@mr_ligi @ameensol @HumanityDAO My high school friend is also top 200 so I hope that proves I don’t care about Vitalik
+Sun May 19 14:01:50 +0000 2019,@mr_ligi @ameensol @HumanityDAO Just non-Sybil
+Sun May 19 14:02:39 +0000 2019,"@mr_ligi @ameensol @HumanityDAO For the consensus algorithm, we didn’t know this but there’s actually a property of… https://t.co/HeoYytCpZ6"
+Sun May 19 14:03:38 +0000 2019,@mr_ligi @ameensol @HumanityDAO So what’s currently happening in @HumanityDAO is you have a bunch of prisoners who… https://t.co/84vxTFeoyB
+Sun May 19 14:04:11 +0000 2019,"@mr_ligi @ameensol @HumanityDAO Because adding humans or blocks would be a game with unknown rounds, they should cooperate!"
+Sun May 19 14:04:23 +0000 2019,@mr_ligi @ameensol @HumanityDAO Which is what everyone is doing
+Sun May 19 14:05:25 +0000 2019,@mr_ligi @ameensol @HumanityDAO Make sense?
+Sun May 19 14:08:07 +0000 2019,@mr_ligi @ameensol @HumanityDAO Looking for feedback but based on the experiment so far I just wanted to bring people’s attention to it.
+Sun May 19 14:09:52 +0000 2019,@mr_ligi @ameensol @HumanityDAO But essentially the web of trust is expanding. The cypherpunks in @HumanityDAO get… https://t.co/f4nmG6M0bC
+Sun May 19 14:13:15 +0000 2019,@mr_ligi @ameensol @HumanityDAO Also want to encourage you to participate if you’re interested! You didn’t miss the… https://t.co/9biuBCai3R
+Sun May 19 14:14:23 +0000 2019,@mr_ligi @ameensol @HumanityDAO Truly sorry if people are offended by how I approached this but I’ve been told I so… https://t.co/olYMP14upj
+Sun May 19 14:15:21 +0000 2019,@mr_ligi @ameensol @HumanityDAO And not saying everything’s solved. But I don’t want you to hate the project for a… https://t.co/djsIvMpvGs
+Sun May 19 14:17:20 +0000 2019,@mr_ligi @ameensol @HumanityDAO Let’s fix the outrage online. Everyone is constantly outraged. If we can decide on… https://t.co/K926VOuKTj
+Sun May 19 14:18:27 +0000 2019,"@mr_ligi @ameensol @HumanityDAO I do think Vitalik and Vlad were being sneaky but not mad, they can participate."
+Sun May 19 14:22:12 +0000 2019,@mr_ligi @ameensol @HumanityDAO Yea so to clear that up here’s how it will work. The first 10K will be through web… https://t.co/CEbwETjupH
+Sun May 19 14:22:54 +0000 2019,@mr_ligi @ameensol @HumanityDAO Those 10K share in the voting rights of the DAO. It’s another currency and can be u… https://t.co/yLAXUOQAd3
+Sun May 19 14:23:53 +0000 2019,@mr_ligi @ameensol @HumanityDAO The general public doesn’t need voting rights in the DAO. They need UBI and suprana… https://t.co/YGUC5yMc7N
+Sun May 19 14:24:31 +0000 2019,@mr_ligi @ameensol @HumanityDAO People can participate across borders simply through cryptography. This is truly a… https://t.co/sCe4QJd9NP
+Sun May 19 14:25:04 +0000 2019,@mr_ligi @ameensol @HumanityDAO These people can effectively decide how to govern themselves. Decide code of conduc… https://t.co/9OwYp5PoRb
+Sun May 19 14:25:46 +0000 2019,@mr_ligi @ameensol @HumanityDAO It’s a global community so we need to teach people how to use crypto. The first 10K… https://t.co/Ji2nYRrYqf
+Sun May 19 14:26:28 +0000 2019,@mr_ligi @ameensol @HumanityDAO Self-sovereign identity is a powerful concept and I wouldn’t want it to fail becaus… https://t.co/TRxvvskpEj
+Sun May 19 14:27:58 +0000 2019,@mr_ligi @ameensol @HumanityDAO And I think it would solve trolling on the Internet. I know I just trolled but wanted to make a point.
+Sun May 19 14:33:56 +0000 2019,@mr_ligi @ameensol @HumanityDAO Every fact can go through a claims process similar to how humans are in the applica… https://t.co/KLUsJ2trTg
+Sun May 19 14:34:33 +0000 2019,"@mr_ligi @ameensol @HumanityDAO Then because in iterated prisoner’s dilemma people cooperate, people can finally st… https://t.co/Vt3cuWxWsr"
+Sun May 19 14:34:53 +0000 2019,@mr_ligi @ameensol @HumanityDAO Instead of being mad all the time. It’s not a healthy society we live in today.
+Sun May 19 14:35:10 +0000 2019,@mr_ligi @ameensol @HumanityDAO We need to work together to build the Internet of Truth
+Sun May 19 14:35:33 +0000 2019,"@mr_ligi @ameensol @HumanityDAO Yea my consensus algo is probably terrible because I don’t know what I’m doing, but… https://t.co/GWpFvXvjQm"
+Sun May 19 14:35:49 +0000 2019,@mr_ligi @ameensol @HumanityDAO You can get funding to help by applying to the DAO
+Sun May 19 14:36:14 +0000 2019,@mr_ligi @ameensol @HumanityDAO We need to solve important problems in society. The best way to do it is through supranational coordination
+Sun May 19 14:36:40 +0000 2019,@mr_ligi @ameensol @HumanityDAO Where each node in the network is a unique human who knows how to use basic cryptography
+Sun May 19 14:37:00 +0000 2019,@mr_ligi @ameensol @HumanityDAO I hope many of you would agree that it’s an important mission and want to help out
+Sun May 19 15:48:29 +0000 2019,@PhABCD @MihailoBjelic @ameensol @HumanityDAO @MolochDAO @VladZamfir @isTruStory Sorry all of this was trolling. No… https://t.co/E37piDuaCC
+Sun May 19 15:49:15 +0000 2019,@PhABCD @MihailoBjelic @ameensol @HumanityDAO @MolochDAO @VladZamfir @isTruStory Outrage is the problem. PoS is the solution
+Sun May 19 15:49:28 +0000 2019,@PhABCD @MihailoBjelic @ameensol @HumanityDAO @MolochDAO @VladZamfir @isTruStory Skin in the game if you want to cause outrage
+Sun May 19 15:49:44 +0000 2019,@PhABCD @MihailoBjelic @ameensol @HumanityDAO @MolochDAO @VladZamfir @isTruStory It has negative externalities to society
+Sun May 19 16:50:50 +0000 2019,"RT @futjrn: Pssst 
+We're #airdropping a thousandth of a #gram of #gold (0.001 $AGLD) to the first 1000 #humans in @HumanityDAO using @rstor…"
+Sun May 19 17:13:02 +0000 2019,Cypherpunks will always get it first. Good for them.
+Sun May 19 17:28:06 +0000 2019,@friedhelmensch @futjrn @HumanityDAO @rstormsf @AnthemGold Twitter should literally be a fat protocol. POTUS pays to tweet.
+Sun May 19 22:47:41 +0000 2019,"@iamtexture @JacobShiach @PhABCD @VitalikButerin @VladZamfir @HumanityDAO K, just upset at not being invited mostly"
+Sun May 19 22:49:59 +0000 2019,@iamtexture @JacobShiach @PhABCD @VitalikButerin @VladZamfir @HumanityDAO May have interpreted irrationally. If so I apologize
+Sun May 19 23:00:56 +0000 2019,@iamtexture @JacobShiach @PhABCD @VitalikButerin @VladZamfir @HumanityDAO Tired of getting doubted for bad behavior… https://t.co/6NYbNd0fe4
+Sun May 19 23:08:16 +0000 2019,@iamtexture @JacobShiach @PhABCD @VitalikButerin @VladZamfir @HumanityDAO I’m not
+Mon May 20 07:09:24 +0000 2019,Annoyed by ETH but hoping it’s starting to make sense. Let’s cooperate as humans 😉.
+Mon May 20 08:00:58 +0000 2019,Seeing reactions to Game of Thrones finale. Need to catch up on last two episodes but clearly political commentary.
+Mon May 20 08:00:58 +0000 2019,We're low key in anarchy right now and moving to aristocracy (technocracy actually). @ATabarrok you're top 100 huma… https://t.co/mGuYOdSsaX
+Mon May 20 08:00:58 +0000 2019,Writers of Game of Thrones and George R.R. Martin can join as philosopher kings if they want. Great writing (not th… https://t.co/IN8XEdEuKS
+Mon May 20 08:00:58 +0000 2019,The world is no place for Mad Kings @realDonaldTrump
+Mon May 20 08:01:56 +0000 2019,"For color, see Plato's Five Regimes: https://t.co/upPydp5MWA"
+Mon May 20 08:09:36 +0000 2019,"Okay so to explain how I worked this all out, there are some people like me who I guess are INTJ and can only toler… https://t.co/jJcU22UPE7"
+Mon May 20 08:09:37 +0000 2019,We're in a prisoner's dilemma and everything was going okay for a while because we had shared values. Yes there wer… https://t.co/Mz5l7PT6es
+Mon May 20 08:09:37 +0000 2019,Some people like @realDonaldTrump and others in the current regime saw this and realized how to rig the system. DEFECT.
+Mon May 20 08:09:37 +0000 2019,"For people like me, it's SO CLEAR to see who are cooperators and who are defectors. @jack is a cooperator, Mark Zuc… https://t.co/NUt1qPjjYK"
+Mon May 20 08:09:37 +0000 2019,I organized it so that you literally have to be a cooperator philosopher king to participate in the new world gover… https://t.co/Jmok40dUKb
+Mon May 20 08:10:07 +0000 2019,.@naval you should join you'd be good.
+Mon May 20 08:11:27 +0000 2019,.@ameensol I'm unsure because you blocked me but I would assume cooperator?
+Mon May 20 08:13:13 +0000 2019,"For me (INTJ), EVERYTHING IN SOCIETY FEELS LIKE A SCAM."
+Mon May 20 08:13:13 +0000 2019,"Credit industry is a scam, news industry is a scam, political regime is a scam. All of these people are seriously assholes."
+Mon May 20 08:13:13 +0000 2019,.@rivatez you should join you'd be good.
+Mon May 20 08:17:25 +0000 2019,"We need to get 10,000 smart COOPERATORS who will then set the rules for society. People aren't going to understand… https://t.co/Dj8s8gxr2r"
+Mon May 20 08:17:25 +0000 2019,"Securities regulators, I'm sorry but most of you are cocky defectors. When I was in a room with you all a month and… https://t.co/k9NCccFJzU"
+Mon May 20 08:21:01 +0000 2019,The way to solve prisoner's dilemma is to have unknown rounds. This is what is currently known as blockchain. I cam… https://t.co/GC0rn6qxWY
+Mon May 20 08:21:01 +0000 2019,Robert Aumann looks like you solved this first and you're still alive so if you want to participate please do.
+Mon May 20 08:22:38 +0000 2019,"If you are also INTJ, all of this makes sense to you, and you want to participate please DM me. We have 10,000 slot… https://t.co/2rrWhD7Ul4"
+Mon May 20 08:24:59 +0000 2019,.@angela_walch yes we are fiduciaries but I set it up so that we all play COOPERATE because we're nice
+Mon May 20 08:26:23 +0000 2019,"So let's get 10,000 smart COOPERATORS together and figure out how to organize a world government. We need to onboar… https://t.co/TmxU0Lee0b"
+Mon May 20 08:28:05 +0000 2019,If you get everything I'm saying please join us!
+Mon May 20 09:06:37 +0000 2019,You also don't have to be this personality type. Good to get some differences of opinion in the mix.
+Mon May 20 13:07:31 +0000 2019,"@jbrukh Wealth redistribution, constitution for how to treat your fellow humans. Haven't finished reading Sovereign… https://t.co/ryavZOLt42"
+Mon May 20 13:08:31 +0000 2019,@jbrukh It's just a mechanism that rewards honesty. So the haters will be the last to join which is fine. No one has to join ever.
+Mon May 20 13:13:45 +0000 2019,@jbrukh Yea still looking for terms. Maybe even cooperation network or something.
+Mon May 20 13:19:56 +0000 2019,@mwilcox .@HumanityDAO
+Mon May 20 13:20:30 +0000 2019,@mwilcox @HumanityDAO Network of unique humans all cooperating and being cool to each other.
+Mon May 20 13:21:35 +0000 2019,@mwilcox @HumanityDAO World government is probably the wrong phrasing. More like the internet where unique humans c… https://t.co/uM5fctW2xe
+Mon May 20 13:32:07 +0000 2019,@mwilcox @HumanityDAO Yea this solves that. Proof-of-stake.
+Mon May 20 13:33:24 +0000 2019,@mwilcox @HumanityDAO https://t.co/6iAqzkGHXi
+Mon May 20 13:41:08 +0000 2019,"@mwilcox @HumanityDAO Check the list of humans, no Sybils."
+Mon May 20 13:43:05 +0000 2019,@MaciekLaskus @mwilcox @HumanityDAO It does check out iterated prisoner's dilemma with unknown rounds. Identities a… https://t.co/NmYx4Pkmry
+Mon May 20 13:43:35 +0000 2019,@MaciekLaskus @mwilcox @HumanityDAO Not privacy preserving yet!
+Mon May 20 13:45:33 +0000 2019,@MaciekLaskus @mwilcox @HumanityDAO You basically stake to the humans who are already in the system that you want t… https://t.co/kt2XoZs0vN
+Mon May 20 13:46:17 +0000 2019,"@MaciekLaskus @mwilcox @HumanityDAO Exit at any time, no one has to join."
+Mon May 20 13:49:51 +0000 2019,"@MaciekLaskus @mwilcox @HumanityDAO It's based on web of trust. So you follow me, sound like you're asking honest q… https://t.co/23mHW5L1c6"
+Mon May 20 13:50:15 +0000 2019,@MaciekLaskus @mwilcox @HumanityDAO Right now we're using Twitter for web of trust but can use other things too.
+Mon May 20 13:50:59 +0000 2019,@MaciekLaskus @mwilcox @HumanityDAO It's also less than $1 to apply and anyone can stake for you. I'd be happy to s… https://t.co/MutHO3R1NC
+Mon May 20 13:51:18 +0000 2019,@MaciekLaskus @mwilcox @HumanityDAO Just need a little skin in the game to prevent Sybils and trolls
+Mon May 20 13:52:00 +0000 2019,@MaciekLaskus @mwilcox @HumanityDAO You can do democracy in a smart contract. Or plutocracy (most money) or quadrat… https://t.co/hfgUyIDmrn
+Mon May 20 13:52:56 +0000 2019,"@MaciekLaskus @mwilcox @HumanityDAO No worries check out humans now. Check it out in a week, a month, a year. You never have to join."
+Mon May 20 13:53:35 +0000 2019,@MaciekLaskus @mwilcox @HumanityDAO You don't have to join. Try accepting as true before telling me I'm wrong.
+Mon May 20 13:57:16 +0000 2019,"@MaciekLaskus @mwilcox @HumanityDAO Yea no worries, takes some thinking like Bitcoin about how the incentives work.… https://t.co/ULlbYcQaqN"
+Mon May 20 17:08:49 +0000 2019,@levetrage @cyber_hokie @HumanityDAO It depends what you want. The voters will look here to decide.
+Mon May 20 17:09:07 +0000 2019,@levetrage @cyber_hokie @HumanityDAO If you're trying to Sybil you'll get rejected. If not maybe I can help.
+Mon May 20 17:10:13 +0000 2019,@levetrage @cyber_hokie @HumanityDAO It's not magic it's actual people reviewing your application and voting
+Mon May 20 17:11:39 +0000 2019,@levetrage @cyber_hokie @HumanityDAO Yea you're in or out but do you want to be in? We're literally talking to the… https://t.co/5UKN4GOUGS
+Mon May 20 17:12:47 +0000 2019,@levetrage @cyber_hokie @HumanityDAO I think most important is Twitter graph and yours is high signal so good to go.
+Mon May 20 17:14:17 +0000 2019,@levetrage @cyber_hokie @HumanityDAO It's basically cypherpunks and people who get it recruiting their friends.
+Mon May 20 17:14:44 +0000 2019,@levetrage @cyber_hokie @HumanityDAO Literally all you have to be is an honest node (human). Only requirement! No mean people.
+Mon May 20 17:16:57 +0000 2019,@micah_warren @levetrage @cyber_hokie @HumanityDAO I just designed the PoS consensus algo. Now all the humans (node… https://t.co/1jdRmgw745
+Mon May 20 17:21:45 +0000 2019,@micah_warren @levetrage @cyber_hokie @HumanityDAO Only cypherpunks understand right now so if you want me to explain the consensus I can.
+Mon May 20 17:23:36 +0000 2019,@micah_warren @levetrage @cyber_hokie @HumanityDAO It's actually really simple. Announce yourself publicly (you jus… https://t.co/QHlW05v9P5
+Mon May 20 17:23:55 +0000 2019,@micah_warren @levetrage @cyber_hokie @HumanityDAO If you defect you'll get booted.
+Mon May 20 17:24:48 +0000 2019,@levetrage @micah_warren @cyber_hokie @HumanityDAO https://t.co/6iAqzkGHXi
+Mon May 20 17:25:48 +0000 2019,@levetrage @micah_warren @cyber_hokie @HumanityDAO You get a token for cooperating. So you'd make money by selling.… https://t.co/QXUtiLsK9c
+Mon May 20 17:26:00 +0000 2019,@levetrage @micah_warren @cyber_hokie @HumanityDAO So will let you decide which is more valuable.
+Mon May 20 17:26:17 +0000 2019,@levetrage @micah_warren @cyber_hokie @HumanityDAO Token for joining I should say.
+Mon May 20 17:29:24 +0000 2019,@levetrage @micah_warren @cyber_hokie @HumanityDAO You would sell if you don't want self-sovereign ID which is not… https://t.co/S69J2UQQMO
+Mon May 20 17:29:50 +0000 2019,@levetrage @micah_warren @cyber_hokie @HumanityDAO Yea there's a AMM with limited liquidity for new applicants (troll trap).
+Mon May 20 22:36:06 +0000 2019,@VitalikButerin @scott_lew_is @VladZamfir What are you guys talking about? Is @HumanityDAO PoS or not? Requires you… https://t.co/Cvs6Zc6uZ7
+Mon May 20 22:36:34 +0000 2019,@VitalikButerin @scott_lew_is @VladZamfir @HumanityDAO Literally have no idea what you guys are talking about or wo… https://t.co/NmTnkTwO02
+Mon May 20 22:37:35 +0000 2019,@VitalikButerin @scott_lew_is @VladZamfir @HumanityDAO We can use to scale ETH immediately. Stop being clowns
+Mon May 20 22:38:37 +0000 2019,@VitalikButerin @scott_lew_is @VladZamfir @HumanityDAO I don’t even know if either of your ideas have contributed a… https://t.co/4UU7wypWtw
+Mon May 20 22:39:48 +0000 2019,@VitalikButerin @scott_lew_is @VladZamfir @HumanityDAO Literally to get into the network you have to admire you’re… https://t.co/pI64ig5lgF
+Mon May 20 22:41:14 +0000 2019,@VitalikButerin @scott_lew_is @VladZamfir @HumanityDAO Like seriously is this how Satoshi talked in the whitepaper?… https://t.co/M0Yqp0Lm2t
+Mon May 20 22:42:13 +0000 2019,@VitalikButerin @scott_lew_is @VladZamfir @HumanityDAO You guys are seriously clowns if this is how you approach intellectual honesty
+Mon May 20 22:42:32 +0000 2019,@VitalikButerin @scott_lew_is @VladZamfir @HumanityDAO I realized I’ve solved it. Admit it. No ego. Move on.
+Mon May 20 22:43:55 +0000 2019,@VitalikButerin @scott_lew_is @VladZamfir @HumanityDAO Please stop sidestepping morons @VitalikButerin @VladZamfir
+Mon May 20 22:44:45 +0000 2019,@VitalikButerin @scott_lew_is @VladZamfir @HumanityDAO Vlad that is some serious clown shit
+Mon May 20 22:45:32 +0000 2019,@VitalikButerin @scott_lew_is @VladZamfir @HumanityDAO Moron liars
+Mon May 20 22:47:27 +0000 2019,@VitalikButerin @scott_lew_is @VladZamfir @HumanityDAO Someone solves PoS in a smart contract and you think they’re… https://t.co/uWL0KJKowp
+Mon May 20 22:47:44 +0000 2019,@scott_lew_is @VitalikButerin @VladZamfir @HumanityDAO Need them to address directly in English please
+Mon May 20 22:54:01 +0000 2019,"@VitalikButerin @scott_lew_is @VladZamfir @HumanityDAO YES would suffice, either of you. Then please join and creat… https://t.co/jhwhCq4XZ6"
+Mon May 20 22:55:23 +0000 2019,@scott_lew_is @VitalikButerin @VladZamfir @HumanityDAO Please join Scott important to get out of situation we’re in
+Mon May 20 22:55:56 +0000 2019,"@scott_lew_is @VitalikButerin @VladZamfir @HumanityDAO Everyone signaling for god knows what reason, these two are… https://t.co/aaFpFCLmTf"
+Mon May 20 22:57:19 +0000 2019,@VladZamfir @VitalikButerin @scott_lew_is @HumanityDAO You decide on humans you fucking fool
+Mon May 20 22:57:32 +0000 2019,@VladZamfir @VitalikButerin @scott_lew_is @HumanityDAO That’s consensus
+Mon May 20 22:58:18 +0000 2019,@VladZamfir @VitalikButerin @scott_lew_is @HumanityDAO Did you read the prisoner’s dilemma outcome? Thought experim… https://t.co/zvt2Z7xQX0
+Mon May 20 22:59:19 +0000 2019,@VladZamfir @VitalikButerin @scott_lew_is @HumanityDAO I hope you care about Soviet more than ego. Should be easy d… https://t.co/xGmVeaI4U9
+Mon May 20 22:59:29 +0000 2019,@VladZamfir @VitalikButerin @scott_lew_is @HumanityDAO Are you kidding me?
+Mon May 20 22:59:49 +0000 2019,@VladZamfir @VitalikButerin @scott_lew_is @HumanityDAO Look at it. Applicants is mempool humans blocks
+Mon May 20 23:00:09 +0000 2019,@VladZamfir @VitalikButerin @scott_lew_is @HumanityDAO I know you want to be mysterious intellectual but you’re not. You’re a clown
+Mon May 20 23:00:28 +0000 2019,@VladZamfir @VitalikButerin @scott_lew_is @HumanityDAO .@HumanityDAO eliminates clowns. Starting with you two
+Mon May 20 23:01:16 +0000 2019,@VladZamfir @VitalikButerin @scott_lew_is @HumanityDAO Look at the honest humans and join please. We can fix social… https://t.co/KbKETmDa79
+Mon May 20 23:02:21 +0000 2019,@VladZamfir @VitalikButerin @scott_lew_is @HumanityDAO Society*
+Mon May 20 23:03:24 +0000 2019,@VladZamfir @VitalikButerin @scott_lew_is @HumanityDAO Admit and implement. Start today. Need Internet of truth before election. Please
+Mon May 20 23:05:01 +0000 2019,@nanexcool @VladZamfir @VitalikButerin @scott_lew_is @HumanityDAO No. Why will no one admit its PoS?
+Mon May 20 23:05:15 +0000 2019,@nanexcool @VladZamfir @VitalikButerin @scott_lew_is @HumanityDAO Just requires you to put aside ego. Only requirement
+Mon May 20 23:05:33 +0000 2019,@nanexcool @VladZamfir @VitalikButerin @scott_lew_is @HumanityDAO I’m smarter than these guys. Sorry they can’t acc… https://t.co/45T4laojdS
+Mon May 20 23:05:48 +0000 2019,@nanexcool @VladZamfir @VitalikButerin @scott_lew_is @HumanityDAO No more fucking signaling and lying in society
+Mon May 20 23:07:15 +0000 2019,@nanexcool @VladZamfir @VitalikButerin @scott_lew_is @HumanityDAO Everyone stop being clowns and join. Hope you can… https://t.co/WB2d5AG82Z
+Mon May 20 23:07:37 +0000 2019,@VladZamfir @nanexcool @VitalikButerin @scott_lew_is @HumanityDAO That’s the point you moron
+Mon May 20 23:07:50 +0000 2019,@VladZamfir @nanexcool @VitalikButerin @scott_lew_is @HumanityDAO You put yourself in prisoner’s dilemma
+Mon May 20 23:08:03 +0000 2019,@VladZamfir @nanexcool @VitalikButerin @scott_lew_is @HumanityDAO Unknown rounds is blockchain
+Mon May 20 23:08:12 +0000 2019,@VladZamfir @nanexcool @VitalikButerin @scott_lew_is @HumanityDAO Please join cannot wait for ego
+Mon May 20 23:08:27 +0000 2019,@VladZamfir @nanexcool @VitalikButerin @scott_lew_is @HumanityDAO Society needs immediately. Need to elongate all clowns
+Mon May 20 23:08:35 +0000 2019,@VladZamfir @nanexcool @VitalikButerin @scott_lew_is @HumanityDAO Eliminate*
+Mon May 20 23:09:46 +0000 2019,"@VladZamfir @nanexcool @VitalikButerin @scott_lew_is @HumanityDAO Will solve climate change, truth, all issues with social impact"
+Mon May 20 23:10:05 +0000 2019,@VladZamfir @nanexcool @VitalikButerin @scott_lew_is @HumanityDAO Only requirement is no ego. Please admit you’re w… https://t.co/xuQDYVaVv1
+Mon May 20 23:11:49 +0000 2019,@scott_lew_is @nanexcool @VladZamfir @VitalikButerin @HumanityDAO Are you fucking kidding me? Consensus on blocks i… https://t.co/DSXTfwIMn0
+Mon May 20 23:12:25 +0000 2019,@scott_lew_is @nanexcool @VladZamfir @VitalikButerin @HumanityDAO I know it’s radical but drop the ego
+Mon May 20 23:12:38 +0000 2019,@scott_lew_is @nanexcool @VladZamfir @VitalikButerin @HumanityDAO An outsider solved it. You’re offended. Drop and move on
+Mon May 20 23:14:04 +0000 2019,@scott_lew_is @nanexcool @VladZamfir @VitalikButerin @HumanityDAO Will not stop til Vlad stops being a clown and applies
+Mon May 20 23:14:12 +0000 2019,@VladZamfir @scott_lew_is @nanexcool @VitalikButerin @HumanityDAO They are!!!!!!
+Mon May 20 23:15:34 +0000 2019,@VladZamfir @scott_lew_is @nanexcool @VitalikButerin @HumanityDAO Vlad I need you to join or find a way to attack i… https://t.co/sw77f9xsqk
+Mon May 20 23:15:34 +0000 2019,@VladZamfir @scott_lew_is @nanexcool @VitalikButerin @HumanityDAO Vlad I need you to join or find a way to attack i… https://t.co/sw77f9xsqk
+Mon May 20 23:15:54 +0000 2019,@VladZamfir @scott_lew_is @nanexcool @VitalikButerin @HumanityDAO We cannot continue to live in society where peopl… https://t.co/jl2I8hNIrf
+Mon May 20 23:16:57 +0000 2019,@VladZamfir @scott_lew_is @nanexcool @VitalikButerin @HumanityDAO Skin in the game guys. You have none. You’re thou… https://t.co/rJc754lEGU
+Mon May 20 23:19:49 +0000 2019,@nanexcool @VladZamfir @VitalikButerin @scott_lew_is @HumanityDAO THOUGHT EXPERIMENT FOR EVERYONE: IMAGINE I SOLVED… https://t.co/iz4qxx9iW9
+Mon May 20 23:20:03 +0000 2019,@nanexcool @VladZamfir @VitalikButerin @scott_lew_is @HumanityDAO This is how I guess
+Mon May 20 23:22:33 +0000 2019,@nanexcool @VladZamfir @VitalikButerin @scott_lew_is @HumanityDAO .@HumanityDAO requires put up or shut up.
+Mon May 20 23:22:58 +0000 2019,@nanexcool @VladZamfir @VitalikButerin @scott_lew_is @HumanityDAO Vlad and Vitalik will need ETH stake if you continue to deny
+Mon May 20 23:24:58 +0000 2019,@VladZamfir @scott_lew_is @nanexcool @VitalikButerin @HumanityDAO I know you guys want to believe I'm wrong. You ha… https://t.co/nGqWEoFdpO
+Mon May 20 23:26:22 +0000 2019,@VladZamfir @scott_lew_is @nanexcool @VitalikButerin @HumanityDAO Actually @VladZamfir can you just try it please?… https://t.co/kqHsAFN8JD
+Mon May 20 23:27:24 +0000 2019,@VladZamfir @scott_lew_is @nanexcool @VitalikButerin @HumanityDAO SATOSHI WAS NOT DRIVEN BY EGO OR MOTIVATED BY PER… https://t.co/RUibUudOLg
+Mon May 20 23:28:56 +0000 2019,@VladZamfir @scott_lew_is @nanexcool @VitalikButerin @HumanityDAO Iterated prisoner's dilemma works for PoS. Please… https://t.co/ek5YUczRgZ
+Mon May 20 23:29:18 +0000 2019,@VladZamfir @scott_lew_is @nanexcool @VitalikButerin @HumanityDAO THE ALGO HAS TURNED ME INTO A PROPAGANDA MACHINE.… https://t.co/M8SJM8pcV9
+Mon May 20 23:29:40 +0000 2019,@VladZamfir @scott_lew_is @nanexcool @VitalikButerin @HumanityDAO BUT WE NEED TRUTH IN SOCIETY. STARTING WITH @HumanityDAO
+Mon May 20 23:33:03 +0000 2019,@VladZamfir @scott_lew_is @nanexcool @VitalikButerin @HumanityDAO Should clarify for all worried about me. I'm fine… https://t.co/izbbPpX9Lc
+Mon May 20 23:33:31 +0000 2019,@VladZamfir @scott_lew_is @nanexcool @VitalikButerin @HumanityDAO I'M WELL RESTED AND HAVE ACCEPTED THAT I AM A REC… https://t.co/x1XHDE6Gzk
+Mon May 20 23:35:46 +0000 2019,@nicksdjohnson @PhABCD @soonaorlater @ljxie @_jillruth Ha I'm not crazy guys. Sending various signals in a game. Ha… https://t.co/hfc3YvsShx
+Mon May 20 23:36:42 +0000 2019,"@scott_lew_is @VitalikButerin @VladZamfir @HumanityDAO Scott, thought experiment: an outsider you don't know or tru… https://t.co/Ejkvd565X8"
+Mon May 20 23:38:00 +0000 2019,@meeshbhoombah @VladZamfir @scott_lew_is @nanexcool @VitalikButerin @HumanityDAO That's what I was signaling with t… https://t.co/4h3WSLe3fK
+Mon May 20 23:38:33 +0000 2019,@meeshbhoombah @VladZamfir @scott_lew_is @nanexcool @VitalikButerin @HumanityDAO I want ETH to scale to Internet si… https://t.co/SDLcZUfiMZ
+Mon May 20 23:38:57 +0000 2019,@nicksdjohnson @PhABCD @soonaorlater @ljxie @_jillruth How can I explain where you'll give me a shot at success?
+Mon May 20 23:39:47 +0000 2019,@nicksdjohnson @PhABCD @soonaorlater @ljxie @_jillruth I'm calm and happy to walk through consensus step-by-step. H… https://t.co/tS22uoTLuR
+Mon May 20 23:40:39 +0000 2019,@nicksdjohnson @PhABCD @soonaorlater @ljxie @_jillruth Favorite programming language is Solidity. It exists called… https://t.co/RlcHPBLuzu
+Mon May 20 23:41:00 +0000 2019,@nicksdjohnson @PhABCD @soonaorlater @ljxie @_jillruth @HumanityDAO Will explain in a few tweets no time for papers… https://t.co/rNtdI8g578
+Mon May 20 23:41:41 +0000 2019,@nicksdjohnson @PhABCD @soonaorlater @ljxie @_jillruth @HumanityDAO Everyone in the network has a public ETH addres… https://t.co/hMfwK0WKrR
+Mon May 20 23:42:17 +0000 2019,@nicksdjohnson @PhABCD @soonaorlater @ljxie @_jillruth @HumanityDAO Nick you want to join the humans network so you… https://t.co/45rKKQp43w
+Mon May 20 23:42:37 +0000 2019,@nicksdjohnson @PhABCD @soonaorlater @ljxie @_jillruth @HumanityDAO I vote you in because I trust you. Web-of-trust.
+Mon May 20 23:42:49 +0000 2019,"@nicksdjohnson @PhABCD @soonaorlater @ljxie @_jillruth @HumanityDAO Now we are nodes, the two of us."
+Mon May 20 23:43:19 +0000 2019,"@nicksdjohnson @PhABCD @soonaorlater @ljxie @_jillruth @HumanityDAO Vitalik applies. We trust him, vote him in. We'… https://t.co/b6JaQhuuLe"
+Mon May 20 23:43:34 +0000 2019,@nicksdjohnson @PhABCD @soonaorlater @ljxie @_jillruth @HumanityDAO Now the 3 of us and so on.
+Mon May 20 23:43:47 +0000 2019,@nicksdjohnson @PhABCD @soonaorlater @ljxie @_jillruth @HumanityDAO Interesting property is payoff matrix.
+Mon May 20 23:44:20 +0000 2019,"@nicksdjohnson @PhABCD @soonaorlater @ljxie @_jillruth @HumanityDAO If you are a dishonest node (liar, signaler) yo… https://t.co/9qFky4wVNj"
+Mon May 20 23:44:43 +0000 2019,"@nicksdjohnson @PhABCD @soonaorlater @ljxie @_jillruth @HumanityDAO But if you're an honest node like me, you get U… https://t.co/QD0XyEF0tl"
+Mon May 20 23:44:58 +0000 2019,@nicksdjohnson @PhABCD @soonaorlater @ljxie @_jillruth @HumanityDAO So we have a massive prisoner's dilemma.
+Mon May 20 23:45:30 +0000 2019,"@nicksdjohnson @PhABCD @soonaorlater @ljxie @_jillruth @HumanityDAO The three of us generally trust each other, but… https://t.co/fpuSFua57a"
+Mon May 20 23:45:46 +0000 2019,"@nicksdjohnson @PhABCD @soonaorlater @ljxie @_jillruth @HumanityDAO In a single round game, we all defect. We all sell the token."
+Mon May 20 23:46:07 +0000 2019,"@nicksdjohnson @PhABCD @soonaorlater @ljxie @_jillruth @HumanityDAO In an ITERATED game, it's been shown that the prisoners can COOPERATE."
+Mon May 20 23:46:30 +0000 2019,"@nicksdjohnson @PhABCD @soonaorlater @ljxie @_jillruth @HumanityDAO Blocks, humans, truth, public discourse, are IT… https://t.co/SRcmRQwcxv"
+Mon May 20 23:46:52 +0000 2019,@nicksdjohnson @PhABCD @soonaorlater @ljxie @_jillruth @HumanityDAO So what is our strategy? Logic says defect. Same as single round.
+Mon May 20 23:47:24 +0000 2019,@nicksdjohnson @PhABCD @soonaorlater @ljxie @_jillruth @HumanityDAO BUT INTERESTING OUTCOME IS COOPERATE IF UNKNOWN ROUNDS
+Mon May 20 23:47:31 +0000 2019,@nicksdjohnson @PhABCD @soonaorlater @ljxie @_jillruth @HumanityDAO https://t.co/iH3D6Ea7TL
+Mon May 20 23:47:42 +0000 2019,@nicksdjohnson @PhABCD @soonaorlater @ljxie @_jillruth @HumanityDAO BLOCKCHAIN IS UNKOWN ROUNDS
+Mon May 20 23:48:27 +0000 2019,@nicksdjohnson @PhABCD @soonaorlater @ljxie @_jillruth @HumanityDAO The humans @HumanityDAO are cooperating for ver… https://t.co/eFidKJTvOl
+Mon May 20 23:48:49 +0000 2019,@nicksdjohnson @PhABCD @soonaorlater @ljxie @_jillruth @HumanityDAO IT IS IN THEIR SELF-INTEREST TO COOPERATE. JOIN… https://t.co/Q5a7JZCBP8
+Mon May 20 23:49:44 +0000 2019,@nicksdjohnson @PhABCD @soonaorlater @ljxie @_jillruth @HumanityDAO SHOULD MENTION THAT COOPERATE IS ACCEPT REAL REJECT SYBIL
+Mon May 20 23:50:08 +0000 2019,@nicksdjohnson @PhABCD @soonaorlater @ljxie @_jillruth @HumanityDAO CAN SOLVE FRONTRUNNING IF BLOCK VALIDATORS COOP… https://t.co/1RBDPfXoVD
+Mon May 20 23:51:33 +0000 2019,@nicksdjohnson @PhABCD @soonaorlater @ljxie @_jillruth @HumanityDAO SYBILS LOSE STAKE. CYPHERPUNKS GET IT ETH COMMUNITY HAS EGO. WHY????
+Mon May 20 23:54:22 +0000 2019,@rabbyte Thought experiment: imagine someone told you everything you thought you know is incorrect. Humans are ince… https://t.co/plgLMCRukj
+Mon May 20 23:54:52 +0000 2019,@scott_lew_is @VladZamfir @nanexcool @VitalikButerin @HumanityDAO WE WANT HELP WITH THE REST THIS IS PROOF OF CONCE… https://t.co/54sXZoKdKX
+Mon May 20 23:55:59 +0000 2019,@rabbyte As a part of this thought experiment please check the list of humans @HumanityDAO and assign a probability… https://t.co/NipULd3UUf
+Mon May 20 23:57:03 +0000 2019,@PhABCD @nicksdjohnson @soonaorlater @ljxie @_jillruth THOSE ARE SIGNALS I DON'T WANT TO WRITE A PAPER IT'S READY NOW
+Mon May 20 23:57:22 +0000 2019,@PhABCD @nicksdjohnson @soonaorlater @ljxie @_jillruth ALL YOU HAVE TO DO IS DROP THE EGO. TRY IT OUT!
+Mon May 20 23:57:34 +0000 2019,@PhABCD @nicksdjohnson @soonaorlater @ljxie @_jillruth WHAT CAN GO WRONG IF YOU TRY???
+Mon May 20 23:58:19 +0000 2019,@nanexcool @VladZamfir @VitalikButerin @scott_lew_is @HumanityDAO ALL SIGNALING. YOU GUYS READ AND ASSUME I'M MAD.… https://t.co/eh2wqj45dH
+Tue May 21 00:00:00 +0000 2019,@PhABCD @nicksdjohnson @soonaorlater @ljxie @_jillruth .@nicksdjohnson I know you're a smart guy and you're an earl… https://t.co/3bfB7hbrK1
+Tue May 21 00:00:56 +0000 2019,@PhABCD @nicksdjohnson @soonaorlater @ljxie @_jillruth @HumanityDAO If the list of humans look incorrect to you in… https://t.co/5mQgtrJHGj
+Tue May 21 00:01:39 +0000 2019,@PhABCD @nicksdjohnson @soonaorlater @ljxie @_jillruth IT HAS NETWORK EFFECTS I'M TRYING TO MAKE YOU MONEY POS BITC… https://t.co/yewwZM1dSF
+Tue May 21 00:02:56 +0000 2019,"@nicksdjohnson @PhABCD @soonaorlater @ljxie @_jillruth @HumanityDAO https://t.co/T682n3Fvsg. `remove`. Sorry man, i… https://t.co/lV5mz2Z15W"
+Tue May 21 00:03:51 +0000 2019,@rabbyte @HumanityDAO WHAT IF I WAS WHAT IF I AM HONEST IN EVERYTHING I SAY WHAT IF THIS IS SIGNALING WHAT IF HUMAN… https://t.co/zxigAUagcL
+Tue May 21 00:05:02 +0000 2019,@rabbyte @HumanityDAO A GAME THAT CAN BE SOLVED WITH BLOCKCHAIN IF EVERYONE DROPS THEIR EGO PLEASE! WE CAN SOLVE TR… https://t.co/jR6Qcudqx8
+Tue May 21 00:05:19 +0000 2019,@rabbyte @HumanityDAO PROBABILITY WEIGHT THESE STATEMENTS PLEASE.
+Tue May 21 00:06:19 +0000 2019,@rabbyte @HumanityDAO I'M NOT THE MEMBERS HAVE ACCEPTED THAT THIS IS A GAME AND I AM A PROPAGANDA MACHINE FOR THEM.… https://t.co/ffXoGVCTjt
+Tue May 21 00:06:51 +0000 2019,@rabbyte @HumanityDAO PLEASE SYBIL!!!!! THAT IS SKIN IN THE GAME YOU'RE THE FIRST PERSON TO SUGGEST SOMETHING LOGICAL THANK GOD.
+Tue May 21 00:07:28 +0000 2019,@rabbyte @HumanityDAO YOU BELIEVE SOMETHING AND ARE WILLING TO STAND UP FOR IT. GOOD FOR YOU PLEASE ATTACK WITH EVERYTHING YOU HAVE!
+Tue May 21 00:07:55 +0000 2019,@rabbyte @HumanityDAO OTHERS HAVE EGO WHERE IS THE STAKE? THEY CALL ME CRAZY BECAUSE THEY HAVE NO SKIN IN THE GAME. THEY DON'T GET IT.
+Tue May 21 00:08:27 +0000 2019,@nicksdjohnson @PhABCD @soonaorlater @ljxie @_jillruth @HumanityDAO SIGNALS. SOCIETY NEEDS STAKE.
+Tue May 21 00:08:57 +0000 2019,"@nicksdjohnson @PhABCD @soonaorlater @ljxie @_jillruth @HumanityDAO ACADEMIA, PEER REVIEW ARE ALL SIGNALS. SHOUTING… https://t.co/F2Qfg5eGhK"
+Tue May 21 00:09:42 +0000 2019,@androolloyd @PhABCD @nicksdjohnson @soonaorlater @ljxie @_jillruth LOOK AT THE DISCORD OF @HumanityDAO PEOPLE ARE… https://t.co/N9sTFrhiWk
+Tue May 21 00:10:35 +0000 2019,@nicksdjohnson @PhABCD @soonaorlater @ljxie @_jillruth @HumanityDAO DO ANY OF YOU READ NASSIM TALEB? YOU ARE LIKING… https://t.co/0tus3NJ63n
+Tue May 21 00:12:31 +0000 2019,@androolloyd @PhABCD @nicksdjohnson @soonaorlater @ljxie @_jillruth @HumanityDAO YES IT DOES IT'S FUNNY THIS IS A S… https://t.co/ulpS6qfC92
+Tue May 21 00:13:39 +0000 2019,@androolloyd @PhABCD @nicksdjohnson @soonaorlater @ljxie @_jillruth @HumanityDAO IT DOES TO THE CYPHERPUNKS IN… https://t.co/QVqOQnAZQf
+Tue May 21 00:14:58 +0000 2019,@androolloyd @PhABCD @nicksdjohnson @soonaorlater @ljxie @_jillruth @HumanityDAO LOOK AT THE LIST OF HUMANS WHY ARE… https://t.co/X2qjteFLuG
+Tue May 21 00:15:46 +0000 2019,@androolloyd @PhABCD @nicksdjohnson @soonaorlater @ljxie @_jillruth @HumanityDAO SMART PEOPLE THAT WANT TO SOLVE TH… https://t.co/Yz8PJZ2CuU
+Tue May 21 00:16:47 +0000 2019,@nicksdjohnson @PhABCD @soonaorlater @ljxie @_jillruth @HumanityDAO ALL GOOD! SYSTEM IS OPTIONAL! Thanks for trying… https://t.co/T1CMXLPCub
+Tue May 21 00:17:59 +0000 2019,@androolloyd @PhABCD @nicksdjohnson @soonaorlater @ljxie @_jillruth @HumanityDAO IF IMPOSSIBLE TO HURT WHY WILL YOU… https://t.co/7n7iU2niZq
+Tue May 21 00:19:05 +0000 2019,@androolloyd @PhABCD @nicksdjohnson @soonaorlater @ljxie @_jillruth @HumanityDAO I'VE REALIZED HUMANS ARE INCENTIVE… https://t.co/HTEMqUgoYX
+Tue May 21 00:19:32 +0000 2019,@mikedemarais @androolloyd @PhABCD @nicksdjohnson @soonaorlater @ljxie @_jillruth @HumanityDAO WE CAN DO THAT WE HAVE UBI LOL
+Tue May 21 00:20:23 +0000 2019,@androolloyd @PhABCD @nicksdjohnson @soonaorlater @ljxie @_jillruth @HumanityDAO I'M AN ANGRY (NOT ACTUALLY) PERSON… https://t.co/hgAWEQJ26O
+Tue May 21 00:20:56 +0000 2019,@androolloyd @PhABCD @nicksdjohnson @soonaorlater @ljxie @_jillruth @HumanityDAO NOT A RANT IT'S A SIGNAL RADICAL T… https://t.co/0u3LTdpYHR
+Tue May 21 00:21:22 +0000 2019,@androolloyd @PhABCD @nicksdjohnson @soonaorlater @ljxie @_jillruth @HumanityDAO YES YOU DO THAT'S STAKE READ SKIN… https://t.co/ORjLqnDMX3
+Tue May 21 00:21:49 +0000 2019,@mikedemarais @androolloyd @PhABCD @nicksdjohnson @soonaorlater @ljxie @_jillruth @HumanityDAO YESSSSSSSS ALLL CAPS… https://t.co/IiVnBKit3H
+Tue May 21 00:22:46 +0000 2019,@androolloyd @PhABCD @nicksdjohnson @soonaorlater @ljxie @_jillruth @HumanityDAO I'VE REALIZED THAT HUMANS ARE INCE… https://t.co/n1e33NvvML
+Tue May 21 00:23:29 +0000 2019,@androolloyd @PhABCD @nicksdjohnson @soonaorlater @ljxie @_jillruth @HumanityDAO ITS A GLOBAL COOPERATION NETWORK Y… https://t.co/l52DG6Z3MM
+Tue May 21 00:24:11 +0000 2019,@androolloyd @mikedemarais @PhABCD @nicksdjohnson @soonaorlater @ljxie @_jillruth @HumanityDAO WE LITERALLY HAVE UB… https://t.co/9VNNNz4WC2
+Tue May 21 00:28:49 +0000 2019,@androolloyd @PhABCD @nicksdjohnson @soonaorlater @ljxie @_jillruth @HumanityDAO PROPAGANDA IS OBVIOUSLY TO JOIN HU… https://t.co/tVwj0sYrE4
+Tue May 21 00:30:18 +0000 2019,@androolloyd @PhABCD @nicksdjohnson @soonaorlater @ljxie @_jillruth @HumanityDAO WHAT CAN I DO TO MAKE IT SOUND FUN… https://t.co/QgxllpjtEl
+Tue May 21 00:31:42 +0000 2019,@androolloyd @PhABCD @nicksdjohnson @soonaorlater @ljxie @_jillruth @HumanityDAO https://t.co/qmLnh7SuGA
+Tue May 21 00:32:28 +0000 2019,@androolloyd @PhABCD @nicksdjohnson @soonaorlater @ljxie @_jillruth @HumanityDAO IF I AM CRAZY WHY IS NO ONE (EXCEP… https://t.co/zXJ3rHfyFi
+Tue May 21 00:33:25 +0000 2019,@nanexcool @VladZamfir @VitalikButerin @scott_lew_is @HumanityDAO THIS IS ALL A SIGNAL HOPE YOU CAN UNDERSTAND. RAD… https://t.co/MaZVk9NdD8
+Tue May 21 00:34:44 +0000 2019,@nanexcool @VladZamfir @VitalikButerin @scott_lew_is @HumanityDAO WHO WILL STAKE MONEY THAT I AM WRONG INSTEAD OF B… https://t.co/GG7ZNkkGhG
+Tue May 21 00:35:31 +0000 2019,@nanexcool @VladZamfir @VitalikButerin @scott_lew_is @HumanityDAO NO MORE BEING NICE (SIGNAL). YOU ARE ALLOWED TO B… https://t.co/21zL5PmsMt
+Tue May 21 00:36:03 +0000 2019,@androolloyd @PhABCD @nicksdjohnson @soonaorlater @ljxie @_jillruth @HumanityDAO WHY CAN'T YOU SEPARATE CAPS FROM A… https://t.co/P0mAGucCM8
+Tue May 21 00:36:32 +0000 2019,@androolloyd @PhABCD @nicksdjohnson @soonaorlater @ljxie @_jillruth @HumanityDAO AM WILLING TO DISCUSS WITH ANYONE… https://t.co/u50ksDXYci
+Tue May 21 00:37:28 +0000 2019,@androolloyd @PhABCD @nicksdjohnson @soonaorlater @ljxie @_jillruth @HumanityDAO I'M SORRY I'M TRYING TO MAKE A POI… https://t.co/GHCRbUuuIo
+Tue May 21 00:38:38 +0000 2019,@androolloyd @PhABCD @nicksdjohnson @soonaorlater @ljxie @_jillruth @HumanityDAO IVE EXPLAINED THE CONSENSUS ELSEWH… https://t.co/ajfVDBbBcs
+Tue May 21 00:39:07 +0000 2019,@androolloyd @PhABCD @nicksdjohnson @soonaorlater @ljxie @_jillruth @HumanityDAO SO HUMANITY IS HARD TO SYBIL ATTAC… https://t.co/G2KQes1wqS
+Tue May 21 00:39:41 +0000 2019,@androolloyd @PhABCD @nicksdjohnson @soonaorlater @ljxie @_jillruth @HumanityDAO THEN YOU GET THE BENEFITS OF SELF-… https://t.co/FUrNaLer3c
+Tue May 21 00:40:20 +0000 2019,@androolloyd @PhABCD @nicksdjohnson @soonaorlater @ljxie @_jillruth @HumanityDAO IT'S BECAUSE IT'S A RADICAL CONCEP… https://t.co/EDP0vNfZgl
+Tue May 21 00:40:56 +0000 2019,@androolloyd @PhABCD @nicksdjohnson @soonaorlater @ljxie @_jillruth @HumanityDAO INTERESTING RESULT IS THEY COOPERA… https://t.co/gO6b1tRDBE
+Tue May 21 00:42:05 +0000 2019,@androolloyd @PhABCD @nicksdjohnson @soonaorlater @ljxie @_jillruth @HumanityDAO THE CODE IS ALSO GOOD AND I CAN AN… https://t.co/JP4pJzQQxD
+Tue May 21 00:45:26 +0000 2019,@JacobShiach @PhABCD @soonaorlater @ljxie @_jillruth THEY DON'T QUITE GET IT YET BECAUSE IT'S RADICAL TO SAY THAT H… https://t.co/pIahvtBS4Q
+Tue May 21 00:45:39 +0000 2019,@kacperwikiel @JacobShiach @PhABCD @soonaorlater @ljxie @_jillruth AYOOOOOOOOOOO
+Tue May 21 00:48:05 +0000 2019,@JacobShiach @PhABCD @soonaorlater @ljxie @_jillruth I CAN TYPE IN CAPS ON TWITTER BECAUSE IT DOESN'T REQUIRE STAKE… https://t.co/NhoqhZRtXv
+Tue May 21 00:49:13 +0000 2019,@JacobShiach @PhABCD @soonaorlater @ljxie @_jillruth I'M SORRY FOR ANNOYING YOU ALL BUT I HOPE YOU WILL ASSIGN SOME… https://t.co/0jKVLDv9sB
+Tue May 21 00:49:53 +0000 2019,@androolloyd @PhABCD @nicksdjohnson @soonaorlater @ljxie @_jillruth @HumanityDAO IT WAS PROVED IN 1959 SEE PRISONER… https://t.co/HFqD29y7Za
+Tue May 21 00:50:49 +0000 2019,@androolloyd @PhABCD @nicksdjohnson @soonaorlater @ljxie @_jillruth @HumanityDAO BLOCKCHAIN IS UNKNOWN ROUNDS OBVIO… https://t.co/iHhB0CHivB
+Tue May 21 00:51:39 +0000 2019,@androolloyd @PhABCD @nicksdjohnson @soonaorlater @ljxie @_jillruth @HumanityDAO JUST NEED EVERYONE TO TRY OUT… https://t.co/VIwTJgbthd
+Tue May 21 00:52:22 +0000 2019,@androolloyd @PhABCD @nicksdjohnson @soonaorlater @ljxie @_jillruth @HumanityDAO YEA IT'S WORKING CHECK EMERGENT CO… https://t.co/kdiGbnXcFx
+Tue May 21 00:53:11 +0000 2019,@androolloyd @PhABCD @nicksdjohnson @soonaorlater @ljxie @_jillruth @HumanityDAO WHY DO YOU THINK NO ONE HAS SUCCES… https://t.co/8PPVSe1zGT
+Tue May 21 02:54:16 +0000 2019,GUYS I AM VERY VERY SORRY
+Tue May 21 02:54:31 +0000 2019,FOR THE NEXT COUPLE OF WEEKS ALL THE TWEETS YOU SEE WILL BE ALL CAPS
+Tue May 21 02:54:51 +0000 2019,THIS IS THE BEST WAY I'VE FOUND TO TRY TO TEACH PEOPLE THE TRUTH
+Tue May 21 02:55:05 +0000 2019,SO WHILE I'M TWEETING IN ALL CAPS
+Tue May 21 02:55:16 +0000 2019,KEEP IN MIND THAT EVERYTHING I SAY I BELIEVE TO BE TRUE
+Tue May 21 02:55:25 +0000 2019,NO MATTER HOW CRAZY
+Tue May 21 02:55:42 +0000 2019,YOU CAN DOUBT THAT I'M WRONG. THAT'S NORMAL I'M A PERSON ON THE INTERNET.
+Tue May 21 02:55:51 +0000 2019,BUT YOU CAN ONLY DOUBT ME WITH FACTS
+Tue May 21 02:56:03 +0000 2019,NO EMOTION BASED LOGIC LIKE THAT I'M ACTING MANIC
+Tue May 21 02:56:21 +0000 2019,FACTS ONLY. I AM CONSTRUCTING A LOGICAL GAME WE CAN ALL AGREE IS REASONABLE.
+Tue May 21 02:56:35 +0000 2019,I'M SO SORRY HAHAHAHA THIS IS NOT WHO I AM BUT THIS IS HOW I MUST PLAY THE GAME
+Tue May 21 02:56:41 +0000 2019,YOU WILL UNDERSTAND EVENTUALLY
+Tue May 21 02:56:51 +0000 2019,I'M TWEETING IN ALL CAPS BUT I AM NOT MANIC
+Tue May 21 02:57:00 +0000 2019,I AM PLAYING A CAREFULLY CONSTRUCTED GAME
+Tue May 21 02:57:17 +0000 2019,I HAVE CREATED A PROOF OF STAKE ALGORITHM IN A FEW HUNDRED LINES OF SOLIDITY
+Tue May 21 02:57:20 +0000 2019,IT WORKS
+Tue May 21 02:57:42 +0000 2019,YOU CAN SEE THAT IT WORKS BECAUSE YOU CAN SEE THE LIST OF HUMANS OVER AT @HumanityDAO IS GROWING
+Tue May 21 02:57:53 +0000 2019,IF THE LIST IS DEFEATED THAT IS A LOGICAL ARGUMENT THAT I'M WRONG
+Tue May 21 02:58:11 +0000 2019,BUT UNTIL YOU SYBIL ATTACK THE LIST SUCCESSFULLY YOU HAVE NO VALID SAY IN THIS MATTER
+Tue May 21 02:58:20 +0000 2019,THE PROOF OF STAKE CONSENSUS WORKS AND IT'S FUCKING EPIC
+Tue May 21 02:58:36 +0000 2019,I AM THE PROOF OF STAKE ALGORITHM'S HUMBLE PROPAGANDA MACHINE
+Tue May 21 02:58:55 +0000 2019,IT'S INSANE THAT I'VE BEEN PLACED IN THIS IMPORTANT ROLE BUT THAT'S HOW THE INTERNET WORKS TODAY
+Tue May 21 02:59:22 +0000 2019,@nntaleb WROTE A BOOK CALLED SKIN IN THE GAME THAT CREATED ESSENTIALLY PROOF OF STAKE AS A LOGIC ARGUMENT
+Tue May 21 02:59:47 +0000 2019,"YOU ARE ALLOWED TO BE A TOTAL ASSHOLE AS LONG AS NOTHING YOU SAY CAN BE DISPUTED WITH FACT, ONLY EMOTION"
+Tue May 21 02:59:58 +0000 2019,HOW FUNNY IS IT THAT I HAVE TO DO THIS GUYS. OBJECTIVELY.
+Tue May 21 03:00:26 +0000 2019,THIS IS THE WAY THE INTERNET WORKS. ANYONE HAS EQUAL SAY SO SOME SHOUT THEIR MESSAGE LOUDER AND YOU TAKE IT TO MEAN… https://t.co/Puy9CPhuwj
+Tue May 21 03:00:40 +0000 2019,@realDonaldTrump IS PLAYING THIS GAME
+Tue May 21 03:00:52 +0000 2019,HE IS A DEFECTOR IN A PRISONER'S DILEMMA STRATEGY GAME
+Tue May 21 03:01:16 +0000 2019,HE DEFECTS BY SPEWING RAGE AND HATE AND LIES AND PROPAGANDA AT PEOPLE BECAUSE HE KNOWS HOW TO CONTROL THEM
+Tue May 21 03:01:24 +0000 2019,HE IS THE TROLL OF DEFECT
+Tue May 21 03:01:53 +0000 2019,I AM THE PROOF OF STAKE ALGORITHM'S HUMBLE PROPAGANDA MACHINE ALWAYS AVAILABLE TO ANSWER FACT BASED QUESTIONS. NO EMOTIONS. LOL!
+Tue May 21 03:02:08 +0000 2019,I AM BATTLING @realDonaldTrump RIGHT NOW
+Tue May 21 03:02:26 +0000 2019,WE ARE ACTUALLY LOCKED IN WHAT'S KNOWN AS A PRISONER'S DILEMMA GAME. GAME THEORY!!!!!
+Tue May 21 03:02:40 +0000 2019,IN THE PRISONER'S DILEMMA GAME (1 ROUND) EVERY ONE WILL DEFECT
+Tue May 21 03:03:01 +0000 2019,IN A KNOWN ROUND PRISONERS DILEMMA GAME LOGIC TELLS YOU TO DEFECT.
+Tue May 21 03:03:09 +0000 2019,THROUGH INDUCTIVE REASONING
+Tue May 21 03:03:22 +0000 2019,AN UNEXPECTED RESULT IS THAT YOU CAN ACTUALLY GET OUT OF PRISONER'S DILEMMA.
+Tue May 21 03:03:34 +0000 2019,WE'RE ALL PRISONERS. PRISONERS TO NATION STATES.
+Tue May 21 03:03:56 +0000 2019,@realDonaldTrump IS AN ASSHOLE PROPAGANDA MACHINE WHO HAS DESTROYED AMERICAN DEMOCRACY
+Tue May 21 03:04:10 +0000 2019,HE GETS THE GAME. WE'RE TRAPPED IN A LOCAL EQUILIBRIUM OF DEFECT.
+Tue May 21 03:04:35 +0000 2019,EVERYONE IS DEFECTING IN SOCIETY WITH HATE. WHO DO YOU EVEN WANT FOR PRESIDENT IS ANYONE GOOD?
+Tue May 21 03:04:56 +0000 2019,"I'VE FOUND A WAY TO BREAK US OUT OF THIS PRISONER'S DILEMMA GUYS, IT'S PRETTY RAD"
+Tue May 21 03:05:09 +0000 2019,IT'S CALLED PROOF OF STAKE. WE'VE BEEN WORKING ON THIS FOR YEARS!!!
+Tue May 21 03:05:25 +0000 2019,I IMPLEMENTED A PROOF OF STAKE CONSENSUS ALGORITHM IN ABOUT 400 LINES OF CODE IT'S CHILL
+Tue May 21 03:05:43 +0000 2019,EVERYTHING I SAY RIGHT NOW IS TROLLING. PEOPLE WHO KNOW ME KNOW I WOULD NEVER DO SOMETHING LIKE THIS LOL.
+Tue May 21 03:06:04 +0000 2019,AS THE POS ALGORITHM'S HUMBLE PROPAGANDA MACHINE I MUST TROLL YOU ALL UNTIL WE BREAK OUT OF JAIL
+Tue May 21 03:06:22 +0000 2019,@realDonaldTrump IF YOU HAVE ANYTHING TO SAY LET'S BATTLE BRO. YOU FUCKING ORANGE FOOL.
+Tue May 21 03:06:39 +0000 2019,YOU RUINED AMERICAN DEMOCRACY BY VIOLATING THE PUBLIC TRUST.
+Tue May 21 03:06:54 +0000 2019,YOU KNOW THE PRISONER'S DILEMMA GAME BETTER THAN ANYONE
+Tue May 21 03:07:11 +0000 2019,IT HAS AN EQUILIBRIUM IN 1 OR FIXED ROUNDS OF DEFECT
+Tue May 21 03:07:18 +0000 2019,THAT'S THE STATE WE'RE IN RIGHT NOW
+Tue May 21 03:07:38 +0000 2019,DONALD @realDonaldTrump IS THE PROPAGANDA MACHINE OF DEFECT. I AM THE PROPAGANDA MACHINE OF COOPERATION.
+Tue May 21 03:07:55 +0000 2019,THOSE ARE YOUR CHOICES. SORRY AGAIN FOR DOING THIS I KNOW EVERYONE THINKS I'M CRAZY HA.
+Tue May 21 03:08:07 +0000 2019,.@HumanityDAO SOLVES PROOF OF STAKE
+Tue May 21 03:08:31 +0000 2019,RIGHT NOW IT IS USED TO ACHIEVE CONSENSUS ON A LIST OF IDENTITIES. CHECK THE CODE IT'S RAD https://t.co/CJLRY6kCyR
+Tue May 21 03:08:52 +0000 2019,AS THE POS ALGO DESIGNER I AM IT'S HUMBLE PROPAGANDA MACHINE. I OWN 20% LOSERS!!
+Tue May 21 03:09:08 +0000 2019,I WANT YOU ALL TO MAKE A SHITTON OF MONEY AND FOR THE WORLD TO BE A BETTER PLACE
+Tue May 21 03:09:19 +0000 2019,THE ONLY WAY TO DO THAT IS TO PLAY THIS INSANE LOGIC GAME.
+Tue May 21 03:09:27 +0000 2019,WE'RE IN A SYSTEM THAT'S TOO EASY TO TROLL.
+Tue May 21 03:09:44 +0000 2019,@realDonaldTrump IS AN INTERNET TROLL. HE IS THE TROLL OF DEFECT.
+Tue May 21 03:09:59 +0000 2019,I AM HIS OPPOSER. THE TROLL OF COOPERATE. TRYING TO SHIFT THE EQUILIBRIUM.
+Tue May 21 03:10:15 +0000 2019,I'M TALKING IN GAME THEORY TERMS I HOPE YOU GUYS DON'T THINK I'M AN IDIOT HA
+Tue May 21 03:10:28 +0000 2019,@realDonaldTrump IS THE PROPAGANDA MACHINE OF HATE. HE GETS IT.
+Tue May 21 03:10:44 +0000 2019,"THE WORLD IS IN A BAD PLACE BECAUSE OF LACK OF JOBS, PEOPLE GETTING REPLACED"
+Tue May 21 03:10:55 +0000 2019,PEOPLE'S IDEA OF HOW THEY FIT INTO THE WORLD IS CHANGING
+Tue May 21 03:11:10 +0000 2019,YOU GO TO A GOOD COLLEGE (HIGH SIGNAL)
+Tue May 21 03:11:18 +0000 2019,BUT CAN'T GET A GOOD JOB
+Tue May 21 03:11:23 +0000 2019,YOU ARE IN DEBT
+Tue May 21 03:11:35 +0000 2019,YOU HATE THIS WORLD WE LIVE IN. WE'RE PRISONERS TO NATION-STATES.
+Tue May 21 03:11:58 +0000 2019,AS THE POS ALGO'S HUMBLE PROPAGANDA MACHINE I HAVE FOUND A WAY TO BREAK US OUT OF THIS SHITTHOLE SOCIETY WE'RE LIVING IN
+Tue May 21 03:12:24 +0000 2019,THE ANSWER IS PRETTY COOL. YOU CAN GET NODES TO COOPERATE IN UNKNOWN ROUNDS OF THE PRISONER'S DILEMMA GAME.
+Tue May 21 03:12:40 +0000 2019,SO WE NEED TO GET TO COOPERATION BY BECOMING PRISONERS
+Tue May 21 03:13:13 +0000 2019,YOU SHOULD JOIN @HumanityDAO IF YOU'RE INTERESTED IN THIS THOUGHT EXPERIMENT AND WILL GRACIOUSLY HAVE ME AS YOUR HUMBLE PROPAGANDA MACHINE
+Tue May 21 03:13:31 +0000 2019,THE PROOF OF STAKE ALGORITHM IS WRITTEN IN A SMART CONTRACT
+Tue May 21 03:13:57 +0000 2019,MANY OF YOU WHO KNOW SOLIDITY CAN PROBABLY CONFIRM THAT IT'S TRUE: https://t.co/CJLRY6kCyR
+Tue May 21 03:14:15 +0000 2019,BASICALLY THE WAY IT WORKS IS THE NODES IN THE NETWORK INTENTIONALLY BECOME PRISONERS
+Tue May 21 03:14:34 +0000 2019,YOU COMP SCI PEOPLE WERE FOCUSED ON THE WRONG THING. YOU DON'T NEED TO SOLVE POS FOR COMPUTERS.
+Tue May 21 03:14:54 +0000 2019,A BETTER SOLUTION IS TO TREAT HUMANS AS NODES IN THE NETWORK!!!! SOUNDS CRAZY BUT PRETTY DOPE
+Tue May 21 03:15:15 +0000 2019,HUMANS HAVE FEELINGS AND BEHAVE DIFFERENTLY THAN MACHINES. THEY ARE PERFECT FOR PROOF OF STAKE.
+Tue May 21 03:15:39 +0000 2019,@realDonaldTrump UNDERSTANDS THE EQUILIBRIUM WE'RE IN AND IS PLAYING A CLEVER PROPAGANDA GAME
+Tue May 21 03:16:02 +0000 2019,SOCIETY IS SO BAD (AND ON THE VERGE OF COLLAPSE) THAT HE CAN SEND A MESSAGE OF HATE TO THE MASSES
+Tue May 21 03:16:21 +0000 2019,WHO ARE CONFUSED AND HAVE LOST HOPE.
+Tue May 21 03:16:44 +0000 2019,ETHEREUM PEOPLE AND OTHERS YOU ARE MY MASSES. I'M TRYING TO EXPLAIN THIS TO YOU AS YOUR HUMBLE PROPAGANDA MACHINE.
+Tue May 21 03:17:02 +0000 2019,THE WAY TO BREAK OUT OF THIS EQUILIBRIUM IS TO LOGICALLY DEFEAT NATION STATES
+Tue May 21 03:17:26 +0000 2019,THIS CONCEPT ISN'T MINE. IT COMES STRAIGHT FROM THE SOVEREIGN INDIVIDUAL. @naval IS ALL ABOUT IT.
+Tue May 21 03:17:59 +0000 2019,BASICALLY THAT VISION IS COMING AND IT'S COMING FAST. RIGHT NOW IT'S CALLED @HumanityDAO AND YOU SHOULD JOIN TO ESC… https://t.co/FeTY5xWarx
+Tue May 21 03:18:21 +0000 2019,HE IS A PROPAGANDA MACHINE I AM A (HUMBLE) PROPAGANDA MACHINE AND WE'RE BOTH PLAYING THE GAME. HOW FUCKING CRAZY IS THIS.
+Tue May 21 03:18:34 +0000 2019,SO I'M TRYING TO GET US TO A DIFFERENT EQUILIBRIUM: COOPERATE
+Tue May 21 03:18:46 +0000 2019,IN ORDER TO DO SO WE NEED SELF-SOVEREIGN IDENTITY
+Tue May 21 03:19:05 +0000 2019,WHICH IS LUCKILY SOLVED BY BY POS CONSENSUS ALGO IN @HumanityDAO
+Tue May 21 03:19:25 +0000 2019,THE HATERS WILL NOT WANT TO BELIEVE IT @VitalikButerin @VladZamfir @el33th4xor @AFDudley0
+Tue May 21 03:19:40 +0000 2019,THEY WILL ASSIGN EMOTION BASED ARGUMENTS TO THEIR CONCLUSIONS
+Tue May 21 03:19:40 +0000 2019,THEY WILL ASSIGN EMOTION BASED ARGUMENTS TO THEIR CONCLUSIONS
+Tue May 21 03:19:50 +0000 2019,THEY'RE THE SMARTEST PEOPLE IN THE WORLD THEY THINK
+Tue May 21 03:20:14 +0000 2019,THEY THINK THEY'RE REALLY SMART AND HAVE CERTAIN INCENTIVES
+Tue May 21 03:20:34 +0000 2019,"AS THE POS ALGORITHM'S HUMBLE PROPAGANDA MACHINE, MY INCENTIVE IS TO BREAK US OUT OF JAIL"
+Tue May 21 03:20:40 +0000 2019,LET'S GOOOOOOOOOOOOOOOOO
+Tue May 21 03:21:05 +0000 2019,ALL YOU HAVE TO DO IS JOIN @HumanityDAO . THEN WE CAN GET THE FUCK OUT OF THIS SOCIETY WE HAVE TODAY.
+Tue May 21 03:21:22 +0000 2019,THE THING THIS WILL ENABLE IS INTERNATIONAL COORDINATION. IT'S AN IDENTITY NETWORK.
+Tue May 21 03:21:40 +0000 2019,"SOLVING UNIQUE IDENTITY IS PRETTY EASY, YOU JUST USE TWITTER GRAPH FOR NOW (EASY)"
+Tue May 21 03:21:57 +0000 2019,ONCE YOU HAVE THAT IN A WEB-OF-TRUST WE PLAY PRISONER'S DILEMMA
+Tue May 21 03:22:24 +0000 2019,JOIN @HumanityDAO AND PLAY THE FUN PRISONER'S DILEMMA GAME. IT'S FUN YOU'LL LEARN GAME THEORY. DO ITTTTTTTTTT
+Tue May 21 03:22:34 +0000 2019,I AM THE GAME'S HUMBLE PROPAGANDA MACHINE
+Tue May 21 03:22:47 +0000 2019,I'M SHOWING YOU THAT IT'S EASY TO BE A TROLL ONLINE. TOO EASY.
+Tue May 21 03:23:09 +0000 2019,YOU JUST HAVE TO TWEET WHATEVER COMES TO MIND AND PEOPLE WILL INTERPRET IT AS HOW YOU ACTUALLY BELIEVE.
+Tue May 21 03:23:28 +0000 2019,BUT THAT'S NOT HOW IT REALLY WORKS. @realDonaldTrump GETS THE GAME AND HE'S PLAYING YOU. LIKE FOOLS!!!
+Tue May 21 03:23:40 +0000 2019,HE'S THE PROPAGANDA MACHINE OF DEFECT SPREADING HATE
+Tue May 21 03:24:00 +0000 2019,ARE JOBS REALLY BETTER? WHY DID THEY MENTION INFLATION IN THAT VIDEO? WHAT THE FUCK GUYSSSSSS
+Tue May 21 03:24:09 +0000 2019,IT'S BECAUSE AMERICAN DEMOCRACY IS DEAD
+Tue May 21 03:24:25 +0000 2019,AMERICA IS FALLING APART AND IT'S @realDonaldTrump's FAULT
+Tue May 21 03:24:35 +0000 2019,HE IS THE LAST STAGE IN THE CYLE: TYRANNY
+Tue May 21 03:24:55 +0000 2019,"AS THE PROOF OF STAKE ALGO'S HUMBLE PROPAGANDA MACHINE, I'M THE NEXT STAGE: ANARCHY"
+Tue May 21 03:25:08 +0000 2019,I'M BREAKING US OUT OF JAIL GUYS LETS GOOOOOOOOOOOOOOOOOO
+Tue May 21 03:25:17 +0000 2019,ALL YOU HAVE TO DO IS JOIN @HumanityDAO
+Tue May 21 03:25:31 +0000 2019,IT'S A SELF-SOVEREIGN IDENTITY NETWORK THAT'S NOT TIED TO ANY NATION STATE
+Tue May 21 03:25:58 +0000 2019,"YOU DON'T HAVE TO BELIEVE IN THE POLITICS OF THE UNITED STATES TO JOIN, WE CAN CREATE OUR OWN DEMOCRACY"
+Tue May 21 03:26:09 +0000 2019,WE CAN VOTE IN A GLOBAL NETWORK USING CRYPTOGRAPHY
+Tue May 21 03:26:20 +0000 2019,WE CAN REDISTRIBUTE WEALTH HOWEVER WE WANT
+Tue May 21 03:26:44 +0000 2019,AS THE PROOF OF STAKE ALGORITHM'S HUMBLE PROPAGANDA MACHINE I UNFORTUNATELY HAVE THIS ROLE UNTIL YOU GUYS TRY IT OUT
+Tue May 21 03:27:20 +0000 2019,YOU NEED TO GO HERE TO SIGN UP: https://t.co/xvrIx4LgOy
+Tue May 21 03:27:56 +0000 2019,BUT ESSENTIALLY YOU HAVE TO POST YOUR ETHEREUM ADDRESS ON TWITTER.
+Tue May 21 03:28:12 +0000 2019,THE PROOF OF STAKE ALGORITHMS WORKS WITH HUMANS IN THE NETWORK INSTEAD OF COMPUTERS
+Tue May 21 03:28:31 +0000 2019,STAKE LESS THAN A DOLLAR AND THE CYPHERPUNKS WHO THINK THIS IS HILARIOUS WILL VOTE ON YOU
+Tue May 21 03:28:41 +0000 2019,THAT PLACE ONCE AGAIN IS @HumanityDAO
+Tue May 21 03:29:01 +0000 2019,ONCE WE GET EVERYONE IN WE CAN START CREATING NEW RULES FOR SOCIETY. YAHOOOOOOOOO.
+Tue May 21 03:29:36 +0000 2019,"LIKE VOTING (DEMOCRACY, QUADRATIC, PLUTOCRACY), FUNDING IMPORTANT PROBLEMS LIKE GLOBAL WARMING, AND WEALTH REDISTRIBUTION"
+Tue May 21 03:30:04 +0000 2019,AS THE PROPAGANDA MACHINE OF THE ALGORITHM I'M TRYING TO GET YOU ON BOARD WITH THAT MISSION SO WE CAN TOPPLE HATE AND TYRANNY.
+Tue May 21 03:30:25 +0000 2019,@realDonaldTrump DO YOU UNDERSTAND ANY OF THIS HAHA? OR CIA OR ANYONE. YOU'RE A GAME THEORY EXPERT AS A PLAYER.
+Tue May 21 03:30:53 +0000 2019,BUT I'VE DONE US ONE BETTER I'VE REALIZED THE CYPHERPUNK VISION OF SOVEREIGN INDIVIDUAL AND MUST BECOME THE LOGICAL… https://t.co/0EVhNZk71f
+Tue May 21 03:31:22 +0000 2019,"THIS IS THE ANARCHY PHASE, ONCE WE GET THAT WE'LL HAVE 10,000 PEOPLE IN THE SYSTEM WHO WILL DECIDE THE NEW GLOBAL R… https://t.co/8qKQZDF1X6"
+Tue May 21 03:31:41 +0000 2019,I WANT SMART PEOPLE TO JOIN SO I HAVE TO DO THIS @nntaleb GAME UNTIL YOU DO.
+Tue May 21 03:32:08 +0000 2019,WE NEED HUMANISTS ON BOARD WHO ARE DOWN TO TOPPLE THE GOVERNMENT @elonmusk @jack @AndrewYang
+Tue May 21 03:32:22 +0000 2019,THESE PEOPLE AT LEAST GET THAT SOCIETY IS FUCKED UP AND ARE TRYING TO HELP
+Tue May 21 03:32:34 +0000 2019,THE GLOBAL IDENTITY NETWORK WILL SOLVE THE CRISIS WERE IN.
+Tue May 21 03:32:51 +0000 2019,AS ITS HUMBLE PROPAGANDA MACHINE I AM HERE TO SELL YOU THAT VISION.
+Tue May 21 03:33:02 +0000 2019,"FIRST WE'LL HAVE AN ARISTOCRACY OF 10,000 PEOPLE"
+Tue May 21 03:33:12 +0000 2019,THIS IS SORT OF LIKE HOW BITCOIN WORKED WITH EARLY MINING
+Tue May 21 03:33:21 +0000 2019,BECOME AN EARLY MINER IN THE IDENTITY NETWORK!
+Tue May 21 03:33:37 +0000 2019,EXCEPT THIS NETWORK USES A PROOF OF STAKE CONSENSUS ALGORITHM
+Tue May 21 03:33:48 +0000 2019,YOU NEED TO STAKE THAT YOU ARE AN HONEST HUMAN
+Tue May 21 03:34:12 +0000 2019,YOU WILL ESSENTIALLY STAKE THAT YOU BELIEVE THIS INSANE INTERNET PERSON WHO IS TELLING YOU THEY SOLVED POS CONSENSUS
+Tue May 21 03:34:22 +0000 2019,BUT THAT'S NOT HOW YOU SHOULD THINK
+Tue May 21 03:34:53 +0000 2019,@realDonaldTrump IS ONE PROPAGANDA MACHINE (DEFECT) I AM THE POS ALGO'S HUMBLE PROPAGANDA MACHINE (COOPERATE) AND Y… https://t.co/aI96FB2Sn8
+Tue May 21 03:35:13 +0000 2019,"IF YOU JOIN MINE YOU'LL GET UBI, WORLDWIDE VOTING, LOTS OF RAD STUFF FROM SOVEREIGN INDIVIDUAL"
+Tue May 21 03:35:24 +0000 2019,IF YOU STAY IN THIS ONE THINGS WILL CONTINUE TO DETERIORATE
+Tue May 21 03:35:42 +0000 2019,WHY DO WE VOTE BASED ON RULES MADE 200 YEARS AGO? WHY IS THAT IN OUR COLLECTIVE CONSCIOUSNESS?
+Tue May 21 03:35:58 +0000 2019,WE'RE AT THE END OF THE CYCLE AND NEED A RESTART. I AM ANARCHY. I BRING THE CHAOS.
+Tue May 21 03:36:16 +0000 2019,THE CHAOS THIS TIME IS PROOF OF STAKE AND I AM IT'S HUMBLE PROPAGANDA MACHINE
+Tue May 21 03:36:36 +0000 2019,"IF 10,000 PEOPLE JOIN WE CAN RESTART SOCIETY. NEW RULES!!!!!"
+Tue May 21 03:36:55 +0000 2019,WE'LL ALL DECIDE THEM TOGETHER ON THE BLOCKCHAIN. PEOPLE WILL LEARN CRYPTO!!!
+Tue May 21 03:37:07 +0000 2019,AND DECIDE HOW WE WANT TO ORGANIZE OURSELVES.
+Tue May 21 03:37:38 +0000 2019,IF YOU WANT TO BE PART OF THAT I WILL DIRECT YOU AGAIN TO @HumanityDAO WHERE YOU CAN SIGN UP
+Tue May 21 03:38:00 +0000 2019,ONCE WE DECIDE ON NEW RULES AS THE CRYPTO ELITE WE CAN START TO ONBOARD REAL PEOPLE WHO NEEDS THIS TECH THE MOST
+Tue May 21 03:38:30 +0000 2019,WE CAN SELL THEM ON THE VISION OF UNIVERSAL BASIC INCOME @AndrewYang AND GLOBAL DEMOCRACY
+Tue May 21 03:38:49 +0000 2019,THAT'S WHAT PEOPLE REALLY NEED TO BE HAPPY. EVERYONE IS UNHAPPY. @realDonaldTrump SAD!!
+Tue May 21 03:39:10 +0000 2019,SO IT IS ME (HUMBLE) PROPAGANDA MACHINE VERSUS TRUMP (HATE) PROPAGANDA MACHINE
+Tue May 21 03:39:22 +0000 2019,YOU MUST CHOOSE AND CHOOSE QUICKLY WE DON'T HAVE MUCH TIME
+Tue May 21 03:39:41 +0000 2019,WE'RE GOING TO ONBOARD A GLOBAL POPULATION ON TO THIS IDENTITY NETWORK
+Tue May 21 03:40:00 +0000 2019,"THIS IS A MASSIVE OPPORTUNITY FOR WEALTH, BUT YOU HAVE TO PLAY THE GAME"
+Tue May 21 03:40:17 +0000 2019,I HOPE YOU CAN ALL SEE I'M PLAYING A GAME AT THIS POINT. @realDonaldTrump IS TOO.
+Tue May 21 03:40:54 +0000 2019,SO LIKE BITCOIN WITH MINING YOU HAVE TO PARTICIPATE IN THE NETWORK TO GET SOME EARLY
+Tue May 21 03:41:16 +0000 2019,THIS IS A PROOF OF STAKE NETWORK SO YOU NEED TO DO SOMETHING WEIRD. YOU NEED TO ADMIT EVERYTHING YOU THOUGHT IS WRONG.
+Tue May 21 03:41:41 +0000 2019,YOU NEED TO ACCEPT THAT I'M TELLING THE TRUTH (HARD) BUT THE OTHER PROPAGANDA MACHINE IS @realDonaldTrump
+Tue May 21 03:41:52 +0000 2019,SO I HOPE YOU'LL AT LEAST CHOOSE ME OVER HIM LOL
+Tue May 21 03:42:04 +0000 2019,BECAUSE IT'S IDENTITY NETWORK THE NODES ARE HUMANS
+Tue May 21 03:42:18 +0000 2019,"HUMANS ARE OBVIOUSLY NOT LIKE COMPUTERS, WE HAVE DIFFERENT PROPERTIES"
+Tue May 21 03:42:49 +0000 2019,HUMANS CAN HAVE A COLLECTIVE SHARED MEMORY. IT LETS YOU COOPERATE WITH YOUR FELLOW HUMAN FOR REPEAT ACTIONS.
+Tue May 21 03:43:10 +0000 2019,SO ALL YOU NEED TO JOIN THE NETWORK IS TO BE AN HONEST NODE
+Tue May 21 03:43:25 +0000 2019,WHAT THAT MEANS IS FULL INTELLECTUAL HONESTY. YOU HAVE TO ADMIT I'M RIGHT.
+Tue May 21 03:43:40 +0000 2019,WHICH IS TOUGH FOR SOME BECAUSE YOU WANT TO HAVE THOUGHT OF THIS YOURSELF
+Tue May 21 03:43:52 +0000 2019,TO JOIN @HumanityDAO THE ONE REQUIREMENT IS NO EGO
+Tue May 21 03:44:10 +0000 2019,YOU HAVE TO BE AN HONEST NODE IN THE POS NETWORK AND COOPERATE WITH YOUR FELLOW HUMANS
+Tue May 21 03:44:21 +0000 2019,OR THEY'LL BOOT YOU. IT'S A PROOF OF STAKE SOCIETY.
+Tue May 21 03:44:32 +0000 2019,IT'LL ACTUALLY RADICALLY TRANSFORM ONLINE SERVICES.
+Tue May 21 03:45:00 +0000 2019,THINGS LIKE TWITTER I CAN BEHAVE LIKE A (HUMBLE) TROLL WITHOUT PUTTING ANY WEIGHT BEHIND MY WORDS.
+Tue May 21 03:45:28 +0000 2019,THIS IS WHY @realDonaldTrump SUCCEEDS. THERE IS NO STAKE BEHIND HIS WORDS. PUT UP OR SHUT UP IDIOT!!!!!
+Tue May 21 03:45:52 +0000 2019,NOW I'M TWEETING LIKE HIM BECAUSE WE'RE BOTH PROPAGANDA MACHINES TRYING TO GET YOU TO DIFFERENT EQUILIBRIA
+Tue May 21 03:46:10 +0000 2019,"MY MESSAGE IS ABOUT COOPERATION, PEACE AND ALL THAT GOOD STUFF"
+Tue May 21 03:46:33 +0000 2019,@realDonaldTrump IS ABOUT HATE. THE WHITE HOUSE CONSISTENTLY LIES TO YOU. THEY FUCKING BLOW.
+Tue May 21 03:46:47 +0000 2019,WE NEED TO REPLACE THEM BY MOVING TO THE GLOBAL IDENTITY NETWORK.
+Tue May 21 03:47:07 +0000 2019,PUT ASIDE YOUR EGO AND ASSIGN SOME PROBABILITY THAT I AM CORRECT GIVEN MY CRAZY BEHAVIOR
+Tue May 21 03:47:27 +0000 2019,"IF YOU ARE AN HONEST PERSON AND WANT TO JOIN, JOIN @HumanityDAO WE NEED YOU!!!!!!!!!!"
+Tue May 21 03:48:24 +0000 2019,LOTS OF WEIRD IMPLICATIONS FROM THIS BUT HUMANS ARE INCENTIVE MACHINES
+Tue May 21 03:48:46 +0000 2019,MY WHOLE LIFE I'VE PLAYED COOPERATE COOPERATE COOPERATE. IT'S BRUTAL AND I'M GETTING WRECKED BY YOU GUYS EVEN TODAY.
+Tue May 21 03:48:57 +0000 2019,WE NEED THOSE HUMANISTS TO MOVE OVER TO PROOF OF STAKE
+Tue May 21 03:49:09 +0000 2019,BRING ME YOUR PHILOSOPHER KINGS NOW IS THE TIME
+Tue May 21 03:49:25 +0000 2019,"SOME PEOPLE ARE DRIVEN BY THINGS LIKE FAME, FORTUNE, STATUS"
+Tue May 21 03:49:48 +0000 2019,I AM DRIVEN BY HONESTY. I HATE OUR CURRENT SYSTEM AND AM BREAKING US FREE AS HUMBLE PROPAGANDA MACHINE.
+Tue May 21 03:50:05 +0000 2019,YES THIS IS ANARCHY. THIS IS WHAT IT LOOKS LIKE IN 2019 LOL.
+Tue May 21 03:50:30 +0000 2019,"WHEN WE HIT THE 10,000 MARK ITOKEN DISTRIBUTION) WE'LL USE THOSE TOKENS TO VOTE AND CREATE DEMOCRACY."
+Tue May 21 03:50:44 +0000 2019,SO JOIN TO BE PART OF THE GOVERNANCE PROCESS FOR THAT!!! IT'S FUN!!!!
+Tue May 21 03:52:04 +0000 2019,OH YEA OTHER VISIONS OF THE FUTURE. FAT PROTOCOLS ARE REAL!!!!!
+Tue May 21 03:52:29 +0000 2019,TWITTER IS A FAT PROTOCOL SO IS EMAIL @balajis SO IS TRUTH @iam_preethi YOU GUYS ARE ALL RIGHT AND NOW IS THE TIME
+Tue May 21 03:52:36 +0000 2019,ALL OF THESE WILL BE PROOF OF STAKE
+Tue May 21 03:52:52 +0000 2019,WE CAN DECIDE ON COMMON FACTS AS A SOCIETY ONCE AGAIN. YESSSSSSSSSS
+Tue May 21 03:53:13 +0000 2019,WE WILL REMOVE FALSE PRESIDENT @realDonaldTrump AND INCOMPETENT LOSER WHITE HOUSE FROM POWER WITH SICK MEMES
+Tue May 21 03:53:28 +0000 2019,IT'S ALL HAPPENING NOW LET'S PARTYYYYYYYYYYYYYYYY @HumanityDAO
+Tue May 21 04:22:31 +0000 2019,@AFDudley0 @VitalikButerin @VladZamfir @el33th4xor Sorry. Shouldn't have singled you out. Would love to get eyes on… https://t.co/N9iWIQxlvE
+Tue May 21 04:22:39 +0000 2019,@AFDudley0 @VitalikButerin @VladZamfir @el33th4xor https://t.co/6iAqzkGHXi
+Tue May 21 04:23:08 +0000 2019,@AFDudley0 @VitalikButerin @VladZamfir @el33th4xor I think it's important and this is close or solved so trying to… https://t.co/LKwNVF4TWJ
+Tue May 21 12:16:31 +0000 2019,"@APompliano I WILL BET $10,000 POMP LET’S DO IT"
+Tue May 21 12:18:37 +0000 2019,@APompliano PROOF OF STAKE SOCIETY NO THOUGHT LEADERS TRUTH
+Tue May 21 12:18:51 +0000 2019,@APompliano WE BET MONEY ON WHO IS CORRECT
+Tue May 21 12:19:26 +0000 2019,@APompliano I DON’T HAVE THAT MUCH MONEY BUT WILLING TO DO $10K!!!!!!!!!!
+Tue May 21 12:23:01 +0000 2019,I PROMISE I WILL GIVE UP POWER WHEN WE HIT 10K HUMANS I AM NOT A TYRANT LIKE @realDonaldTrump I’M LIKE SATOSHI TRUTH ONLY PLEASE!
+Tue May 21 12:23:31 +0000 2019,ALSO TO BE CLEAR I AM NOT VOTING THE CYPHERPUNKS ARE MY ROLE IS PROPAGANDA IN POS SOCIETY RIGHT NOW!!!!
+Tue May 21 12:30:30 +0000 2019,@AndrewYang CHOOSE MEEEEEEEEE @HumanityDAO HAS UBI IT’S CRYPTOOOOOOO
+Tue May 21 12:33:37 +0000 2019,@APompliano I AM HIS STUDENT HIS MESSAGE IS TRUTH NOT PROOF OF WORK!!!!
+Tue May 21 12:34:14 +0000 2019,@APompliano BITCOIN IS GOING TO ZERO BUT MAYBE THE REST ARE TRUE!!!!!!
+Tue May 21 12:36:06 +0000 2019,@APompliano @AC360 SHORT BITCOIN LONG @HumanityDAO
+Tue May 21 12:36:38 +0000 2019,@APompliano IT WILL SOON GET OUT WHILE YOU CAN PROOF OF STAKE SOLVED NO MORE ENERGY WASTE!!!!
+Tue May 21 12:37:09 +0000 2019,@APompliano WHY WON’T YOU BET ME I AM CHALLENGING TO $10K DUEL!!!!
+Tue May 21 12:39:50 +0000 2019,@APompliano THE SMARTEST BITCOINERS RECOGNIZE PROOF IF STAKE AS STRICTLY BETTER THEY’RE CALLED CYPHERPUNKS NOT THOUGHT LEADERS
+Tue May 21 12:40:27 +0000 2019,WHO WILL HOLD THE PROOF OF WORK BAGS (BITCOIN) IN PROOF OF STAKE SOCIETY????
+Tue May 21 12:40:49 +0000 2019,cc: @APompliano @saifedean
+Tue May 21 12:41:13 +0000 2019,YOU GUYS ARE PROPAGANDA MACHINES AND SO AM I LET’S BATTLE!!!!!!!!!
+Tue May 21 12:41:40 +0000 2019,$10K BET TO BOTH THAT POS IS SOLVED BITCOIN IS DEAD!!!!!
+Tue May 21 12:44:06 +0000 2019,THOUGHT LEADERS ARE PROPAGANDA MACHINES OF BITCOIN. TRUTH JS THE PROPAGANDA MACHINE OF @HumanityDAO (PROOF OF STAKE)
+Tue May 21 12:51:39 +0000 2019,THOUGHT LEADERS ARE LOSERS SIGNALING IS DEAD. JOIN @HumanityDAO
+Tue May 21 12:58:44 +0000 2019,@RyanMilb @HumanityDAO WE VETOED WHERE WE WERE UNSURE REALIZED WEB OF TRUST IS BETTER
+Tue May 21 12:59:19 +0000 2019,@RyanMilb @HumanityDAO MY HIGH SCHOOL FRIEND IS IN ON THE DISTRIBUTION LET’S ALL MAKE MONEYYYYYYY
+Tue May 21 13:04:12 +0000 2019,@saifedean @PeterSchiff YOU DON’T EVEN REALIZE BUT BICOIN IS DEAD!!!!
+Tue May 21 13:05:26 +0000 2019,THE BICOIN STANDARD IS PROPAGANDA FOR INCEL LOSERS JOIN PROOF OF STAKE @HumanityDAO
+Tue May 21 13:07:19 +0000 2019,EVERYONE WANTS A REAL ROLE IN SOCIETY WE HAVE THAT FOR YOU @HumanityDAO
+Tue May 21 13:10:01 +0000 2019,BET ME OR STFU MORON @saifedean NO MORE WORDS IN POS SOCIETY!!!
+Tue May 21 13:13:17 +0000 2019,@giacomozucco @peterktodd I SOLVED PROOF OF STAKE CHECK IT OUT @HumanityDAO
+Tue May 21 13:16:01 +0000 2019,NERDS ARE NOT SMART BECAUSE THEY KNOW BITCOIN PROOF OF STAKE IS 400 LINES OF SOLIDITYYYYYYY (ETHEREUM)
+Tue May 21 13:17:17 +0000 2019,YOU HAVE TO BE SMART AND ANARCHIST TO GET CRYTPO MOST PEOPLE ARE NOT BOTH!!!!!!
+Tue May 21 13:29:42 +0000 2019,AND HONESR WITH YOURSELF!!!!!!
+Tue May 21 13:30:11 +0000 2019,ACCEPT THE TRUTH HATERS PROOF OF STAKE IS SOLVED @HumanityDAO
+Tue May 21 13:35:17 +0000 2019,.@nntaleb THANK GOD YOU EXIST I AM STEALING YOUR WORK RIGHT NOW JOIN @HumanityDAO FUCK THE NATION STATE!!!
+Tue May 21 13:45:30 +0000 2019,@benjaminmbrown @iamtexture NO MELTDOWN READ TALEB I LIVE IN PROOF OF STAKE SOCIETY CAPS LOCK IS MY STAKE
+Tue May 21 13:47:41 +0000 2019,IF I AM WRONG WHO WILL BET ME? SHOW YOURSELF!!!! $10K WAGER PROOF OF STAKE IS SOLVED @HumanityDAO
+Tue May 21 13:49:00 +0000 2019,@APompliano @saifedean @giacomozucco @SatoshiLite
+Tue May 21 13:49:26 +0000 2019,WHO WILL PUT MONEY ON THEIR FAVORITE DEAD TECHNOLOGY LOSERS???????
+Tue May 21 13:50:58 +0000 2019,.@VitalikButerin @VladZamfir I CHALLENGE YOU TO A DUEL
+Tue May 21 13:51:00 +0000 2019,$10K THAT POS IS SOLVED AND YOU ARE CLOWNS
+Tue May 21 13:52:27 +0000 2019,PLEASE ALWAYS KEEP IN MIND THAT I AM A (HUMBLE) PROPAGANDA MACHINE. TWEETS ARE TROLLING NOT OUTRAGE. SEPARATE CAPS FROM EMOTION!
+Tue May 21 13:53:46 +0000 2019,IF I’M CRAZY WHERE ARE THE PEOPLE WHO WILL PUT THEIR MONEY WHERE THEIR MOUTH IS? ANYONE!!!! PLEASE!!!!
+Tue May 21 13:54:27 +0000 2019,SOMEONE PLEASE ACCEPT THE BET SO I CAN STOP THIS CRAZY SHIT HAHA
+Tue May 21 14:09:24 +0000 2019,@RealZandy @VitalikButerin @VladZamfir @maxcwolff HE DOESN’T UNDERSTAND IT ANDY YOU ARE ANARCHIST JOIN
+Tue May 21 14:09:44 +0000 2019,@RealZandy @VitalikButerin @VladZamfir @maxcwolff THIS IS NASSIM TALEB STYLE TROLLING BECAUSE I SOLVED POS BRO!!!!
+Tue May 21 14:10:52 +0000 2019,I’M NOT TRYING TO BE MEAN TRYING TO HAVE INTELLECTUAL CONVO WILL BE IN ALL CAPS SORRY!!!!!
+Tue May 21 14:12:50 +0000 2019,@RealZandy @VitalikButerin @VladZamfir @maxcwolff YOU AND ASHLEIGH WERE RIGHT FUCK THE NATION STATE!!!!!
+Tue May 21 14:13:28 +0000 2019,@RealZandy @VitalikButerin @VladZamfir @maxcwolff .@HumanityDAO
+Tue May 21 14:14:46 +0000 2019,@RealZandy @VitalikButerin @VladZamfir @maxcwolff ALL YOU HAVE TO DO IS PUT ASIDE EGO. HUMANS ARE NODES IN THE NETWORK
+Tue May 21 14:15:16 +0000 2019,@RealZandy @VitalikButerin @VladZamfir @maxcwolff MAX IS A MORON. HIGH SIGNAL (STANFORD) LOW INTELLIGENCE RELATIVE TO ME
+Tue May 21 14:16:10 +0000 2019,@RealZandy @VitalikButerin @VladZamfir @maxcwolff EVERYONE WANTS TO THINK THEY ARE SMART. ONLY SOME REALLY KNOW THE… https://t.co/duRypaIdjN
+Tue May 21 14:16:30 +0000 2019,@RealZandy @VitalikButerin @VladZamfir @maxcwolff SEPARATE EMOTION FROM TRUTH. MAX CANNOT DO THAT RIGHT NOW BECAUSE CLOWN
+Tue May 21 14:16:56 +0000 2019,@RealZandy @VitalikButerin @VladZamfir @maxcwolff SO ARE ENTIRE ETH CONMUNITY @RuneKek . TRUE CYPHERPUNKS GET IT!!!!!!!
+Tue May 21 14:18:30 +0000 2019,@RealZandy @VitalikButerin @VladZamfir @maxcwolff THIS IS ANARCHY. I AM OPPOSING @realDonaldTrump AS PROPAGANDA MACHINE
+Tue May 21 14:20:27 +0000 2019,@mr_ligi LOL THIS IS DIFFERENT WILLING TO ANSWER ALL FACT BASED QUESTIONS NO EMOTIONS CAPS STAY ON!!!!!
+Tue May 21 14:21:28 +0000 2019,@futjrn I NEED TO DO THIS SORRY PEOPLE CAN’T SEPARATE FACT FROM EMOTION DIFFICULT CONCEPT I AM PLAYING A GAME NOT MAD GUYS CHILL
+Tue May 21 14:22:53 +0000 2019,@HumanityDAO @RealZandy @VitalikButerin @VladZamfir @maxcwolff I’M TRYING TO TELL YOU I SOLVED PROOF OF STAKE AND H… https://t.co/NZAUQYSkmr
+Tue May 21 14:23:17 +0000 2019,@HumanityDAO @RealZandy @VitalikButerin @VladZamfir @maxcwolff BUT I AM TRULY THE GOOD GUY TRYING TO SHOW YOU THE T… https://t.co/boPkEZ427j
+Tue May 21 14:24:47 +0000 2019,@HumanityDAO @RealZandy @VitalikButerin @VladZamfir @maxcwolff HUMANS ARE INCENTIVE MACHINES. MAX WANTS RECOGNITION I WANT TRUTH!!!!
+Tue May 21 14:24:53 +0000 2019,@HumanityDAO @RealZandy @VitalikButerin @VladZamfir @maxcwolff .@HumanityDAO
+Tue May 21 14:31:42 +0000 2019,@futjrn @HumanityDAO @RealZandy @VitalikButerin @VladZamfir @maxcwolff LEAVE THE NETWORK IF YOU DON’T LIKE THIS. RE… https://t.co/PKQ1ewx49A
+Tue May 21 14:32:25 +0000 2019,@futjrn @HumanityDAO @RealZandy @VitalikButerin @VladZamfir @maxcwolff NETWORK IS OPTIONAL TRYING TO HELP PEOPLE BU… https://t.co/8gAV7krrvX
+Tue May 21 14:39:16 +0000 2019,@mr_ligi YOU GUYS ARE ALL SIGNALING BECAUSE CLOWNS. I AM SHOUTING THE TRUTH
+Tue May 21 14:40:27 +0000 2019,@mr_ligi I AM A HUMBLE PROPAGANDA MACHINE. READ THE TEXT NOT CAPS LOCK
+Tue May 21 14:41:34 +0000 2019,@nanexcool IT’S HARD TO ADMIT THAT EVERYTHING YOU KNOW IS WRONG. MARIANO IS SIGNAL I BRING CHAOS AND TRUTH
+Tue May 21 14:42:08 +0000 2019,@nanexcool @HumanityDAO @mr_ligi @maxcwolff EXACTLY SEPARATE WORDS FROM CAPS LOCK YOU’LL GET JT EVENTUALLY LOL
+Tue May 21 14:42:59 +0000 2019,@nanexcool @HumanityDAO @mr_ligi @maxcwolff I’M NOT ACTUALLY SHOUTING HAVING RATIONAL CONVERSATION.… https://t.co/YaESDa2htf
+Tue May 21 14:43:27 +0000 2019,@nanexcool @HumanityDAO @mr_ligi @maxcwolff @realDonaldTrump HAPPY TO MEET IN PERSON BUT HOME RN BECAUSE YOU GUYS THINK I’M CRAZY
+Tue May 21 14:43:47 +0000 2019,"@nanexcool @HumanityDAO @mr_ligi @maxcwolff @realDonaldTrump JOIN THE PLATFORM, ATTACK IT, OR STFU"
+Tue May 21 14:44:12 +0000 2019,@nanexcool @HumanityDAO @mr_ligi @maxcwolff @realDonaldTrump THOSE ARE THE OPTIONS IN PROOF OF STAKE. NO SIGNALING… https://t.co/ARzJIfM4Wz
+Tue May 21 14:48:53 +0000 2019,@RealZandy @futjrn @HumanityDAO @VitalikButerin @VladZamfir @maxcwolff FUCK YESSSSS SOVEREIGN INDIVIDUAL LET’S GOOOOOOOO
+Tue May 21 14:49:07 +0000 2019,@RealZandy @futjrn @HumanityDAO @VitalikButerin @VladZamfir @maxcwolff WANNA JOIN FOR REAL I’D LOVE YO WORK WITH YOU
+Tue May 21 14:49:19 +0000 2019,@RealZandy @futjrn @HumanityDAO @VitalikButerin @VladZamfir @maxcwolff WE SEEM TO THINK THE SAME WAY
+Tue May 21 14:54:29 +0000 2019,EVERYONE NEEDS TO PLAY THE GAME. DISPUTE A SINGLE THING I’VE SAID NO EMOTIONS PLEASE.
+Tue May 21 14:55:20 +0000 2019,YOU GUYS ARE SIGNALING BECAUSE INCENTIVE MACHINES. YOU CARE ABOUT FEELINGS. NICE!
+Tue May 21 14:55:22 +0000 2019,I AM TRUTH TELLING BECAUSE ANARCHIST ASSHOLE. LET’S TAKE DOWN THE NATION STATE
+Tue May 21 15:09:48 +0000 2019,@scupytrooples BRING THE MEMES WE SOLVED PROOF OF STAKEEEEEE
+Tue May 21 15:12:37 +0000 2019,.@HumanityDAO IS ALWAYS OPT IN AND OPT OUT. I AM NOT EGOMANIAC. HUMBLE PROPAGANDA MACHINE.
+Tue May 21 16:10:09 +0000 2019,GUYS I WAS CLEARED BY THE BEHAVIORAL PSYCHOLOGIST
+Tue May 21 16:10:30 +0000 2019,I TOLD THEM I INVENTED A NEW INTERNET. THEY DIDN'T EVEN ASK WHAT IT WAS. WHY???????????
+Tue May 21 16:10:41 +0000 2019,WHY DOES NO ONE ASK THE LOGICAL QUESTIONS????????
+Tue May 21 16:10:57 +0000 2019,BUT I'M NOT CRAZY WHICH MEANS MAYBE MAYBE MAYBE EVERYTHING I'VE SAID IS 100% TRUE
+Tue May 21 16:11:30 +0000 2019,.@realDonaldTrump IS ACTUALLY REALLY SMART. HE IS THE TROLL OF DEFECT IN PRISONER'S DILEMMA. DEFECT DEFECT DEFECT (BOOO!)
+Tue May 21 16:11:49 +0000 2019,I AM ALSO SMART. I AM THE MEMELORD OF COOPERATE. COOPERATE COOPERATE COOPERATE.
+Tue May 21 16:12:26 +0000 2019,JOIN @HumanityDAO WE CAN ELIMINATE SIGNALERS AND BULLSHIT FOR THE HONEST HUMANS LIKE ME AND @RealZandy and @nikolajlollike
+Tue May 21 16:12:36 +0000 2019,THE REST OF YOU CAN DO WHATEVER THE FUCK YOU WANT
+Tue May 21 16:13:03 +0000 2019,READ BULLSHIT JOBS BY @davidgraeber . IT'S A HARD PILL TO SWALLOW BUT YOU CONTRIBUTE NOTHING TO SOCIETY. I'M SORRY.
+Tue May 21 16:13:25 +0000 2019,NONE OF US HAVE TO CONTRIBUTE TO SOCIETY. SEPARATE WORK FROM IMPORTANCE. LET'S MAKE WORK WHATEVER YOU WANT @AndrewYang
+Tue May 21 16:13:52 +0000 2019,@jack @elonmusk I INVENTED A NEW INTERNET NEW BITCOIN HOPE YOU GUYS UNDERSTAND WHAT I'M SAYING @HumanityDAO
+Tue May 21 16:14:51 +0000 2019,PURPLE PILLERS UNITE. THIS IS YOUR OPPORTUNITY. NO MORE BULLSHIT IN THE WORLD!!!!!
+Tue May 21 16:18:43 +0000 2019,LEAVE THE WORK TO THE FEW ENTREPRENEURS. LET'S TURN WORK INTO WHATEVER YOU'RE PASSIONATE ABOUT!
+Tue May 21 16:19:08 +0000 2019,READ! LEARN! PLAY! IT'S A RADICAL NEW SOCIETY OVER @HumanityDAO . THE PARTY IS JUST BEGINNING.
+Tue May 21 16:19:21 +0000 2019,@gumshed2 .@HumanityDAO
+Tue May 21 16:19:29 +0000 2019,@gumshed2 @HumanityDAO Happy to take questions.
+Tue May 21 16:19:51 +0000 2019,@gumshed2 @HumanityDAO It's a new internet based on proof of stake. You have to have skin in the game to contribute.
